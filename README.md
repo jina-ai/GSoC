@@ -74,8 +74,8 @@ Work on exciting frontend features for enhancing JinaBox (Jina's search user-int
 - Sergiy Chemodanov (Contact: sergiy@jina.ai)
 
 
-### Project X: Your own ideas
-Interested in proposing a new project idea altogether?
+### Project X: Interested in proposing a new project idea altogether?
+
 We are always excited to hear from the community about potential projects and features Jina could host. If you are excited about any idea and would like to
 propose it as a GSoC project, get in touch with our mentors and we'd be very happy to be inclusive.
 
