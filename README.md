@@ -43,6 +43,7 @@ We look forward to contributions from our community, engineering team and intern
 ### Project 1: Hub image porting
  
 Adapting new state-of-the-art AI models to neural search and making them publicly available for the community via Jina Hub
+
 Contributing to Jina Hub (https://github.com/jina-ai/jina-hub)
 
 #### Mentor:  
