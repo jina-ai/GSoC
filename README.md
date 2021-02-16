@@ -4,7 +4,7 @@
 
 # GSoC 2021 with Jina AI
 <p align="center">
-<b>Project Proposals Idea List Page for Google Summer of Code 2021 with Jina<b>
+<b>Project Proposals Idea List Page for Google Summer of Code 2021 with Jina
 </p>
 <p align="center">
 <img src="https://github.com/jina-ai/jina/blob/master/.github/logo-only.gif?raw=true" alt="Jina banner" width="200px">
