@@ -2,7 +2,7 @@
 <img src="https://github.com/jina-ai/GSoC/blob/main/.github/gsoc.png?raw=true" alt="Jina GSoC banner" width="300px" height="300px">
 </p>
 
-#                                                                  GSoC 2021 with Jina AI
+# GSoC 2021 with Jina AI
 <p align="center">
 Project Proposals Idea List Page for Google Summer of Code 2021 with Jina
 </p>
