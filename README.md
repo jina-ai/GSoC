@@ -32,7 +32,7 @@ Mentor:  Rutuja Surve (Contact: rutuja.surve@jina.ai)
 ### Project 2: Improve docstring coverage for Jina
 Contribute towards Jina’s code documentation, making the code highly readable.
 Scope for refactoring as per best practices.
-Mentor: Rutuja Surve (Contact: rutuja.surve@jina.ai), Susana Guzman (Contact: susana.guzman@jina.ai)
+Mentor: Rutuja Surve (Contact: rutuja.surve@jina.ai), Susana Guzman (Contact: susana.guzman@jina.ai), Yongxuan Zhang (Contact: yongxuan.zhang@jina.ai)
 
 ### Project 3: Write an example with Jina for an application of your choice 
 Write a neural search pipeline to solve a problem of your choice.
