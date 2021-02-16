@@ -59,7 +59,7 @@ Contribution towards Jina’s code documentation, making the code highly readabl
 - Yongxuan Zhang (Contact: yongxuan.zhang@jina.ai)
 
 ### Project 3: Write an example with Jina for an application of your choice 
-Write a neural search pipeline to solve a problem of your choice.
+Write a neural search pipeline to solve a real-world problem.
 Students may use any Kaggle or other publicly available datasets.
 Include well-written documentation and a blog post to create outreach for yourself and Jina.
 
