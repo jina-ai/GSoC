@@ -3,7 +3,12 @@
 </p>
 
 # GSoC 2021 with Jina AI
-Google Summer of Code 2021
+<p align="center">
+Project Proposals Idea List Page for Google Summer of Code 2021 with Jina.
+</p>
+<p align="center">
+<img src="https://github.com/jina-ai/jina/blob/master/.github/logo-only.gif?raw=true" alt="Jina banner" width="200px">
+</p>
 
 Jina AI is a leading neural search open source project (2.3K+ GitHub stars and 360+ forks in less than a year) and is fully committed to open source.
 
@@ -38,3 +43,24 @@ Mentor: Rutuja Surve (Contact: rutuja.surve@jina.ai)
 ### Project 4:  Enhancements for JinaBox and Console
 Work on exciting frontend features for enhancing JinaBox (Jina's search user-interface) and Jina's Hub interface - the console.
 Mentor: Sergiy Chemodanov (Contact: sergiy@jina.ai)
+
+
+### Interested in proposing a new project idea altogether?
+We are always excited to hear from the community about potential projects and features Jina could host. If you are excited about any idea and would like to
+propose it as a GSoC project, get in touch with our mentors and we'd be very happy to be inclusive.
+
+## Contributing
+
+Follow the guidelines below while submitting your first patch to Jina:
+
+- [Contributing guidelines](CONTRIBUTING.md)
+- [Release cycles and development stages](RELEASE.md)
+
+## Get in touch with the Jina Community!
+
+- [Code of conduct](https://github.com/jina-ai/jina/blob/master/.github/CODE_OF_CONDUCT.md) - play nicely with the Jina community
+- [Slack workspace](https://slack.jina.ai) - join #general on our Slack to meet the team and ask questions
+- [YouTube channel](https://youtube.com/c/jina-ai) - subscribe to the latest video tutorials, release demos, webinars and presentations.
+- [LinkedIn](https://www.linkedin.com/company/jinaai/) - get to know Jina AI as a company and find job opportunities
+- [![Twitter Follow](https://img.shields.io/twitter/follow/JinaAI_?label=Follow%20%40JinaAI_&style=social)](https://twitter.com/JinaAI_) - follow and interact with us using hashtag `#JinaSearch`
+- [Company](https://jina.ai) - know more about our company and how we are fully committed to open-source.
