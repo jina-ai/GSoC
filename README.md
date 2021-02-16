@@ -32,13 +32,13 @@ Mentor:  Rutuja Surve (Contact: rutuja.surve@jina.ai)
 ### Project 2: Improve docstring coverage for Jina
 Contribute towards Jina’s code documentation, making the code highly readable.
 Scope for refactoring as per best practices.
-Mentor: Rutuja Surve (Contact: rutuja.surve@jina.ai)
+Mentor: Rutuja Surve (Contact: rutuja.surve@jina.ai), Susana Guzman (Contact: susana.guzman@jina.ai)
 
-### Project 3: Write and example for an application of your choice 
+### Project 3: Write an example with Jina for an application of your choice 
 Write a neural search pipeline to solve a problem of your choice.
 Students may use any Kaggle or other publicly available datasets.
 Include well-written documentation and a blog post to create outreach for yourself and Jina.
-Mentor: Rutuja Surve (Contact: rutuja.surve@jina.ai)
+Mentor: Rutuja Surve (Contact: rutuja.surve@jina.ai), Susana Guzman (Contact: susana.guzman@jina.ai)
 
 ### Project 4:  Enhancements for JinaBox and Console
 Work on exciting frontend features for enhancing JinaBox (Jina's search user-interface) and Jina's Hub interface - the console.
