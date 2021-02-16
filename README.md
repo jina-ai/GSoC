@@ -27,22 +27,26 @@ We look forward to contributions for our community, engineering team and interns
 ### Project 1: Hub image porting
 Adapting new state-of-the-art AI models to neural search and making them publicly available for the community via Jina Hub
 Contribute to https://github.com/jina-ai/jina-hub
-Mentor:  Rutuja Surve (Contact: rutuja.surve@jina.ai)
+
+#### Mentor:  Rutuja Surve (Contact: rutuja.surve@jina.ai)
 
 ### Project 2: Improve docstring coverage for Jina
 Contribute towards Jina’s code documentation, making the code highly readable.
 Scope for refactoring as per best practices.
-Mentor: Rutuja Surve (Contact: rutuja.surve@jina.ai), Susana Guzman (Contact: susana.guzman@jina.ai), Yongxuan Zhang (Contact: yongxuan.zhang@jina.ai)
+
+#### Mentors: Rutuja Surve (Contact: rutuja.surve@jina.ai), Susana Guzman (Contact: susana.guzman@jina.ai), Yongxuan Zhang (Contact: yongxuan.zhang@jina.ai)
 
 ### Project 3: Write an example with Jina for an application of your choice 
 Write a neural search pipeline to solve a problem of your choice.
 Students may use any Kaggle or other publicly available datasets.
 Include well-written documentation and a blog post to create outreach for yourself and Jina.
-Mentor: Rutuja Surve (Contact: rutuja.surve@jina.ai), Susana Guzman (Contact: susana.guzman@jina.ai)
+
+#### Mentors: Rutuja Surve (Contact: rutuja.surve@jina.ai), Susana Guzman (Contact: susana.guzman@jina.ai)
 
 ### Project 4:  Enhancements for JinaBox and Console
 Work on exciting frontend features for enhancing JinaBox (Jina's search user-interface) and Jina's Hub interface - the console.
-Mentor: Sergiy Chemodanov (Contact: sergiy@jina.ai)
+
+#### Mentor: Sergiy Chemodanov (Contact: sergiy@jina.ai)
 
 
 ### Interested in proposing a new project idea altogether?
