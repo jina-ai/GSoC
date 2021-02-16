@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://github.com/jina-ai/GSoC/blob/main/.github/gsoc.png?raw=true" alt="Jina GSoC banner" width="200px">
+<img src="https://github.com/jina-ai/GSoC/blob/main/.github/gsoc.png?raw=true" alt="Jina GSoC banner" width="300px" height="300px">
 </p>
 
-# GSoC 2021
+# GSoC 2021 with Jina AI
 Google Summer of Code 2021
 
 Jina AI is a leading neural search open source project (2.3K+ GitHub stars and 360+ forks in less than a year) and is fully committed to open source.
