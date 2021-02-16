@@ -12,14 +12,13 @@ Project Proposals Idea List Page for Google Summer of Code 2021 with Jina
 
 ## About us
 
-Jina is a leading neural search open source project (2.3K+ GitHub stars and 360+ forks in less than a year). The project is maintained by a full-time engineering team at Jina AI, a company fully committed to open source. 
+[Jina](get.jina.ai) is a leading neural search open source project (2.3K+ GitHub stars and 360+ forks in less than a year). The project is maintained by a full-time engineering team at Jina AI, a company fully committed to open source. 
 
 We, the Jina community, strive to be helpful and welcoming to new open source contributors. We hope that we can help give students a strong foundation of contributing to open-source artificial intelligence and neural search and learn best engineering practices through their GSoC tenure with us.
 
 All the mentors are from our own engineering team. They will mentor and review the mentee’s deliverables in detail, with timely communication and tracking of projects’ progress, ensuring a very enriching internship experience.
 
-
-## This Summer
+## This summer
 
 Jina has a lot of challenging and exciting projects ongoing this summer.Until today, we've introduced cross- and multi-modal search and have 90+ first class AI models implemented as Jina Executors in production and available as Docker images.
 
@@ -29,34 +28,53 @@ Also, we aim to introduce and adapt even more state-of-the-art AI models in Jina
 
 We look forward to contributions from our community, engineering team and interns together to successfully achieve our goals this summer.
 
+## Our repositories
+
+- [Jina Core](https://github.com/jina-ai/jina)
+- [Jina Hub](https://github.com/jina-ai/jina-hub)
+- [Jina Box](https://github.com/jina-ai/jinabox.js)
+- [Jina Dashboard](https://github.com/jina-ai/dashboard)
+- [Jina Examples](https://github.com/jina-ai/examples)
+- [Documentation](https://github.com/jina-ai/docs)
+
+
 ## GSoC 2021 Idea List:
 
 ### Project 1: Hub image porting
+ 
 Adapting new state-of-the-art AI models to neural search and making them publicly available for the community via Jina Hub
-Contribute to https://github.com/jina-ai/jina-hub
+Contributing to Jina Hub (https://github.com/jina-ai/jina-hub)
 
-#### Mentor:  Rutuja Surve (Contact: rutuja.surve@jina.ai)
+#### Mentor:  
+- Rutuja Surve (Contact: rutuja.surve@jina.ai)
 
 ### Project 2: Improve docstring coverage for Jina
-Contribute towards Jina’s code documentation, making the code highly readable.
-Scope for refactoring as per best practices.
 
-#### Mentors: Rutuja Surve (Contact: rutuja.surve@jina.ai), Susana Guzman (Contact: susana.guzman@jina.ai), Yongxuan Zhang (Contact: yongxuan.zhang@jina.ai)
+Contribution towards Jina’s code documentation, making the code highly readable. Scope for refactoring as per best practices.
+
+#### Mentors: 
+- Rutuja Surve (Contact: rutuja.surve@jina.ai)
+- Susana Guzman (Contact: susana.guzman@jina.ai)
+- Yongxuan Zhang (Contact: yongxuan.zhang@jina.ai)
 
 ### Project 3: Write an example with Jina for an application of your choice 
 Write a neural search pipeline to solve a problem of your choice.
 Students may use any Kaggle or other publicly available datasets.
 Include well-written documentation and a blog post to create outreach for yourself and Jina.
 
-#### Mentors: Rutuja Surve (Contact: rutuja.surve@jina.ai), Susana Guzman (Contact: susana.guzman@jina.ai)
+#### Mentors: 
+- Rutuja Surve (Contact: rutuja.surve@jina.ai)
+- Susana Guzman (Contact: susana.guzman@jina.ai)
 
 ### Project 4:  Enhancements for JinaBox and Console
 Work on exciting frontend features for enhancing JinaBox (Jina's search user-interface) and Jina's Hub interface - the console.
 
-#### Mentor: Sergiy Chemodanov (Contact: sergiy@jina.ai)
+#### Mentor: 
+- Sergiy Chemodanov (Contact: sergiy@jina.ai)
 
 
-### Interested in proposing a new project idea altogether?
+### Project X: Your own ideas
+Interested in proposing a new project idea altogether?
 We are always excited to hear from the community about potential projects and features Jina could host. If you are excited about any idea and would like to
 propose it as a GSoC project, get in touch with our mentors and we'd be very happy to be inclusive.
 
