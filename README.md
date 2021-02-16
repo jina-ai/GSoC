@@ -10,17 +10,24 @@ Project Proposals Idea List Page for Google Summer of Code 2021 with Jina
 <img src="https://github.com/jina-ai/jina/blob/master/.github/logo-only.gif?raw=true" alt="Jina banner" width="200px">
 </p>
 
-Jina AI is a leading neural search open source project (2.3K+ GitHub stars and 360+ forks in less than a year) and is fully committed to open source.
+## About us
 
-We, the Jina AI community strive to be helpful and welcoming to new contributors. We hope that we can help give students a strong foundation of contributing to open-source artificial intelligence and neural search, while learning best engineering practices through their GSoC tenure with us.
-Jina AI will mentor and review the mentee’s deliverables in detail, with timely communication and tracking of projects’ progress, ensuring a very enriching internship experience.
+Jina is a leading neural search open source project (2.3K+ GitHub stars and 360+ forks in less than a year). The project is maintained by a full-time engineering team at Jina AI, a company fully committed to open source. 
 
-Jina AI has a lot of challenging and exciting projects ongoing this summer.
-We have introduced cross and multi modal search and have 90+ first class AI models implemented as Jina Executors - in production as well as hosted Docker images.
-We aim to introduce transfer learning, graph learning, reinforcement learning and fine tuning this year, extensively designing and implementing this summer.
-We aim to introduce and adapt even more state-of-the-art AI models in Jina Hub this summer.
+We, the Jina community, strive to be helpful and welcoming to new open source contributors. We hope that we can help give students a strong foundation of contributing to open-source artificial intelligence and neural search and learn best engineering practices through their GSoC tenure with us.
 
-We look forward to contributions for our community, engineering team and interns together to successfully achieve our goals for this summer 
+All the mentors are from our own engineering team. They will mentor and review the mentee’s deliverables in detail, with timely communication and tracking of projects’ progress, ensuring a very enriching internship experience.
+
+
+## This Summer
+
+Jina has a lot of challenging and exciting projects ongoing this summer.Until today, we've introduced cross- and multi-modal search and have 90+ first class AI models implemented as Jina Executors in production and available as Docker images.
+
+This year, we aim to introduce more features e.g. transfer learning, graph learning, reinforcement learning and fine tuning, and there are extensive designing and engineering work for this during this year's GSoC. 
+
+Also, we aim to introduce and adapt even more state-of-the-art AI models in Jina Hub with the help of GSoC program. 
+
+We look forward to contributions from our community, engineering team and interns together to successfully achieve our goals this summer.
 
 ## GSoC 2021 Idea List:
 
