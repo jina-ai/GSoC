@@ -64,14 +64,14 @@ Students may use any Kaggle or other publicly available datasets.
 Include well-written documentation and a blog post to create outreach for yourself and Jina.
 
 #### Mentors: 
-- Rutuja Surve (Contact: rutuja.surve@jina.ai)
-- Susana Guzman (Contact: susana.guzman@jina.ai)
+- Rutuja Surve | Email: rutuja(dot)surve(at)jina(dot)ai
+- Susana Guzman | Email: susana(dot)guzman(at)jina(dot)ai
 
 ### Project 4:  Enhancements for JinaBox and Console
 Work on exciting frontend features for enhancing JinaBox (Jina's search user-interface) and Jina's Hub interface - the console.
 
 #### Mentor: 
-- Sergiy Chemodanov (Contact: sergiy@jina.ai)
+- Sergiy Chemodanov | Email: sergiy(at)jina(dot)ai
 
 
 ### Project X: Interested in proposing a new project idea altogether?
