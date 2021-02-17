@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/jina-ai/GSoC/blob/main/.github/gsoc.png?raw=true" alt="Jina GSoC banner" width="300px" height="300px">
+<img src="https://github.com/jina-ai/GSoC/blob/main/images/gsoc.png" alt="Jina GSoC banner" width="300px" height="300px">
 </p>
 
 # GSoC 2021 with Jina AI
@@ -42,35 +42,42 @@ We look forward to contributions from our community, engineering team and intern
 
 ### Project 1: Hub image porting
  
-Adapting new state-of-the-art AI models to neural search and making them publicly available for the community via Jina Hub
-
-Contributing to [Jina Hub](https://github.com/jina-ai/jina-hub)
+- Adapting new state-of-the-art AI models to neural search and making them publicly available for the community via Jina Hub
+- Contributing to [Jina Hub](https://github.com/jina-ai/jina-hub)
 
 #### Mentor:  
+
 - Rutuja Surve (Contact: rutuja.surve@jina.ai)
 
 ### Project 2: Improve docstring coverage for Jina
 
-Contribution towards Jina’s code documentation, making the code highly readable. Scope for refactoring as per best practices.
+- Contribution towards Jina’s code documentation ([Documentation](https://github.com/jina-ai/docs)), making the code highly readable. 
+- Scope for refactoring as per best practices.
 
 #### Mentors: 
+
 - Rutuja Surve | Email: rutuja(dot)surve(at)jina(dot)ai
 - Susana Guzman | Email: susana(dot)guzman(at)jina(dot)ai
 - Yongxuan Zhang | Email: yongxuan(dot)zhang(at)jina(dot)ai
 
-### Project 3: Write an example with Jina for an application of your choice 
-Write a neural search pipeline to solve a real-world problem.
-Students may use any Kaggle or other publicly available datasets.
-Include well-written documentation and a blog post to create outreach for yourself and Jina.
+### Project 3: Build an example with Jina for an application of your choice 
+
+- Write a neural search pipeline to solve a real-world problem.
+- Students may use any Kaggle or other publicly available datasets.
+- Include well-written documentation and a blog post (or a Demo video) to create outreach for yourself and Jina.
 
 #### Mentors: 
+
 - Rutuja Surve | Email: rutuja(dot)surve(at)jina(dot)ai
 - Susana Guzman | Email: susana(dot)guzman(at)jina(dot)ai
 
 ### Project 4:  Enhancements for JinaBox and Console
-Work on exciting frontend features for enhancing JinaBox (Jina's search user-interface) and Jina's Hub interface - the console.
+
+- Work on exciting frontend features for enhancing UI and UX
+- Contribute to [Jina Hub](https://github.com/jina-ai/jina-hub) or [Jina Box](https://github.com/jina-ai/jinabox.js)
 
 #### Mentor: 
+
 - Sergiy Chemodanov | Email: sergiy(at)jina(dot)ai
 
 
@@ -83,8 +90,8 @@ propose it as a GSoC project, get in touch with our mentors and we'd be very hap
 
 Follow the guidelines below while submitting your first patch to Jina:
 
-- [Contributing guidelines](CONTRIBUTING.md)
-- [Release cycles and development stages](RELEASE.md)
+- [Contributing guidelines](https://github.com/jina-ai/jina/blob/master/CONTRIBUTING.md)
+- [Release cycles and development stages](https://github.com/jina-ai/jina/blob/master/RELEASE.md)
 
 ## Get in touch with the Jina Community!
 
