@@ -44,7 +44,7 @@ We look forward to contributions from our community, engineering team and intern
  
 Adapting new state-of-the-art AI models to neural search and making them publicly available for the community via Jina Hub
 
-Contributing to Jina Hub (https://github.com/jina-ai/jina-hub)
+Contributing to [Jina Hub](https://github.com/jina-ai/jina-hub)
 
 #### Mentor:  
 - Rutuja Surve (Contact: rutuja.surve@jina.ai)
