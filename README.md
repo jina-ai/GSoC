@@ -68,8 +68,8 @@ We look forward to contributions from our community, engineering team and intern
 
 #### Mentors: 
 
-- Rutuja Surve | Email: rutuja(dot)surve(at)jina(dot)ai
-- Susana Guzman | Email: susana(dot)guzman(at)jina(dot)ai
+- Rutuja Surve, Email: rutuja(dot)surve(at)jina(dot)ai
+- Susana Guzman, Email: susana(dot)guzman(at)jina(dot)ai
 
 ### Project 4:  Enhancements for JinaBox and Console
 
@@ -78,7 +78,7 @@ We look forward to contributions from our community, engineering team and intern
 
 #### Mentor: 
 
-- Sergiy Chemodanov | Email: sergiy(at)jina(dot)ai
+- Sergiy Chemodanov, Email: sergiy(at)jina(dot)ai
 
 
 ### Project X: Interested in proposing a new project idea altogether?
