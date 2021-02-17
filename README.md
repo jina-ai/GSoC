@@ -47,7 +47,7 @@ We look forward to contributions from our community, engineering team and intern
 
 #### Mentor:  
 
-- Rutuja Surve | Email: rutuja(dot)surve(at)jina(dot)ai
+- Rutuja Surve, Email: rutuja(dot)surve(at)jina(dot)ai
 
 ### Project 2: Improve docstring coverage for Jina
 
@@ -56,9 +56,9 @@ We look forward to contributions from our community, engineering team and intern
 
 #### Mentors: 
 
-- Rutuja Surve | Email: rutuja(dot)surve(at)jina(dot)ai
-- Susana Guzman | Email: susana(dot)guzman(at)jina(dot)ai
-- Yongxuan Zhang | Email: yongxuan(dot)zhang(at)jina(dot)ai
+- Rutuja Surve, Email: rutuja(dot)surve(at)jina(dot)ai
+- Susana Guzman, Email: susana(dot)guzman(at)jina(dot)ai
+- Yongxuan Zhang, Email: yongxuan(dot)zhang(at)jina(dot)ai
 
 ### Project 3: Build an example with Jina for an application of your choice 
 
