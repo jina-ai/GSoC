@@ -47,7 +47,7 @@ We look forward to contributions from our community, engineering team and intern
 
 #### Mentor:  
 
-- Rutuja Surve (Contact: rutuja.surve@jina.ai)
+- Rutuja Surve | Email: rutuja(dot)surve(at)jina(dot)ai
 
 ### Project 2: Improve docstring coverage for Jina
 
