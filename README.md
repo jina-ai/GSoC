@@ -54,9 +54,9 @@ Contributing to [Jina Hub](https://github.com/jina-ai/jina-hub)
 Contribution towards Jina’s code documentation, making the code highly readable. Scope for refactoring as per best practices.
 
 #### Mentors: 
-- Rutuja Surve (Contact: rutuja.surve@jina.ai)
-- Susana Guzman (Contact: susana.guzman@jina.ai)
-- Yongxuan Zhang (Contact: yongxuan.zhang@jina.ai)
+- Rutuja Surve | Email: rutuja(dot)surve(at)jina(dot)ai
+- Susana Guzman | Email: susana(dot)guzman(at)jina(dot)ai
+- Yongxuan Zhang | Email: yongxuan(dot)zhang(at)jina(dot)ai
 
 ### Project 3: Write an example with Jina for an application of your choice 
 Write a neural search pipeline to solve a real-world problem.
