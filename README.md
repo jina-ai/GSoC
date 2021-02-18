@@ -85,7 +85,7 @@ Write a neural search pipeline to solve a real-world problem. Use any Kaggle or 
  
 | **Intensity** | **Priority** | **Involves**                            | **Mentors**                                                                                              |
 |---------------|--------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Moderate      | High         | Build an example using Jina | [Rutuja Surve](https://github.com/rutujasurve94): rutuja(dot)surve(at)jina(dot)ai, [Susana Guzman](https://github.com/catstark): susana(dot)guzman(at)jina(dot)ai|
+| Moderate      | High         | Build an example using Jina | [Rutuja Surve](https://github.com/rutujasurve94): rutuja(dot)surve(at)jina(dot)ai, [Susana Guzman](https://github.com/theUnkownName): susana(dot)guzman(at)jina(dot)ai|
  
 #### Technical Details
  
