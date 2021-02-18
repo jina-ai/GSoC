@@ -121,7 +121,7 @@ is the code base hosting Jina Examples like southpark-search, pokedex-search.
 
 #### First Steps
  
-- Study the `jina` and `jina-hub` repository, understand the codebase
+- Study the [jina](https://github.com/jina-ai/jina) and [jina-hub](https://github.com/jina-ai/jina-hub) repository, understand the codebase
 - Actively get involved with the GitHub issues with documentation tag in Jina repo, picking up good beginner tasks, getting in touch with the mentors.
 - Submit patches with clean unit test cases and review them from the jina-engineering team.
 - Discuss your proposal with the mentors.
@@ -137,6 +137,11 @@ is the code base hosting Jina Examples like southpark-search, pokedex-search.
 - Sergiy Chemodanov, Email: sergiy(at)jina(dot)ai
 - Bastin Jafari, Email: bastin(dot)jafari(at)jina(dot)ai
 
+#### First Steps
+ 
+- Study the [`jinabox`](https://github.com/jina-ai/jinabox.js) and [`dashboard`](https://github.com/jina-ai/dashboard) repository, understand the codebase
+- Actively get involved with the GitHub issues in these repositories.
+- Join our slack channel or mail our mentors to get in touch with them for more information
 
 ### *Project X: Interested in proposing a new project idea altogether?*
 
