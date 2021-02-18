@@ -108,7 +108,7 @@ is the code base hosting Jina Examples like southpark-search, pokedex-search.
 - Discuss your proposal with the mentors.
 - Join our slack channel or mail our mentors to get in touch with them for more information
 
-### Project 3: Improve docstring coverage for Jina
+### *Project 3: Improve docstring coverage for Jina*
 
 - Contribution towards Jina’s code documentation ([Documentation](https://github.com/jina-ai/docs)), making the code highly readable. 
 - Scope for refactoring as per best practices.
@@ -127,7 +127,7 @@ is the code base hosting Jina Examples like southpark-search, pokedex-search.
 - Discuss your proposal with the mentors.
 - Join our slack channel or mail our mentors to get in touch with them for more information
 
-### Project 4:  Enhancements for JinaBox and Console
+### *Project 4:  Enhancements for JinaBox and Console*
 
 - Work on exciting frontend features for enhancing UI and UX
 - Contribute to [Jina Hub](https://github.com/jina-ai/jina-hub) or [Jina Box](https://github.com/jina-ai/jinabox.js)
@@ -135,9 +135,10 @@ is the code base hosting Jina Examples like southpark-search, pokedex-search.
 #### Mentor: 
 
 - Sergiy Chemodanov, Email: sergiy(at)jina(dot)ai
+- Bastin Jafari, Email: bastin(dot)jafari(at)jina(dot)ai
 
 
-### Project X: Interested in proposing a new project idea altogether?
+### *Project X: Interested in proposing a new project idea altogether?*
 
 We are always excited to hear from the community about potential projects and features Jina could host. If you are excited about any idea and would like to
 propose it as a GSoC project, get in touch with our mentors and we'd be very happy to be inclusive.
