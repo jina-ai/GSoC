@@ -40,16 +40,75 @@ We look forward to contributions from our community, engineering team and intern
 
 ## GSoC 2021 Idea List:
 
-### Project 1: Hub image porting
+### *Project 1: Port State of the Art AI models to Jina Hub*
  
-- Adapting new state-of-the-art AI models to neural search and making them publicly available for the community via Jina Hub
-- Contributing to [Jina Hub](https://github.com/jina-ai/jina-hub)
+#### Abstract
+ 
+Jina Hub hosts state of the art AI models in the form of Executors for various stages of the neural search pipeline - segmenting, crafting, encoding, indexing and ranking data. This project will focus on adapting new state-of-the-art AI models to neural search and making them publicly available for the community via Jina Hub
+Contributing to [Jina Hub](https://github.com/jina-ai/jina-hub)
 
-#### Mentor:  
+ 
+| **Intensity** | **Priority** | **Involves**                            | **Mentors**                                                                                              |
+|---------------|--------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Moderate      | High         | Implement new Jina Hub Models. | [Rutuja Surve](https://github.com/rutujasurve94), Mail: rutuja(dot)surve(at)jina(dot)ai|
+ 
+#### Technical Details
+ 
+[Jina Hub repository](https://github.com/jina-ai/jina-hub)
+is the code base hosting Jina Executors.
+[Jina AI Docker Hub](https://hub.docker.com/u/jinaai) is the go to platform for the existing hub executors like BigTransferEncoder, etc.
+ 
+#### Helpful Experience
+ 
+- Python programming and experience with Docker
+- Ability to read scientific publications
+- Knowledge of Numpy
+- Basic knowledge of popular deep learning frameworks like Tensorflow, Pytorch, Keras, etc.
+ 
+#### First Steps
+ 
+- Study the `jina-hub` repository, understand the existing Executors
+- Propose an AI model of any executor kind - indexer, ranker, crafter, segmenter, encoder.
+- Actively get involved with the GitHub issues in the repo, picking up good beginner tasks, getting in touch with the mentors.
+- Submit patches with clean unit test cases and review them from the jina-engineering team.
+- Discuss your proposal with the mentors.
+- Join our slack channel or mail our mentors to get in touch with them for more information
 
-- Rutuja Surve, Email: rutuja(dot)surve(at)jina(dot)ai
 
-### Project 2: Improve docstring coverage for Jina
+### *Project 2: Build an example for an application of your choice *
+ 
+#### Abstract
+ 
+Write a neural search pipeline to solve a real-world problem. Use any Kaggle or other open source datasets. Include well-written documentation and a blog post (and/or Demo video) to create outreach for yourself and Jina.
+ 
+ 
+| **Intensity** | **Priority** | **Involves**                            | **Mentors**                                                                                              |
+|---------------|--------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Moderate      | High         | Build an example using Jina | [Rutuja Surve](https://github.com/rutujasurve94) Mail: rutuja(dot)surve(at)jina(dot)ai, [Susana Guzman](https://github.com/catstark) Mail: susana(dot)guzman(at)jina(dot)ai|
+ 
+#### Technical Details
+ 
+[Jina Examples repository](https://github.com/jina-ai/examples)
+is the code base hosting Jina Examples like southpark-search, pokedex-search.
+[Jina AI Docker Hub](https://hub.docker.com/u/jinaai) is the go to platform for the existing hub executors like BigTransferEncoder, etc.
+ 
+#### Helpful Experience
+ 
+- Python programming and experience with Docker
+- Ability to extend SOTA AI models using deep learning frameworks
+- Knowledge of Numpy
+- Basic knowledge of popular deep learning frameworks like Tensorflow, Pytorch, Keras, etc.
+ 
+#### First Steps
+ 
+- Study the `examples` repository, understand the existing examples
+- Propose an application of your choice for an interesting use-cases
+- Actively get involved with the GitHub issues in Jina repo, picking up good beginner tasks, getting in touch with the mentors.
+- Submit patches with clean unit test cases and review them from the jina-engineering team.
+- Discuss your proposal with the mentors.
+- Join our slack channel or mail our mentors to get in touch with them for more information
+
+### Project 3: Improve docstring coverage for Jina
 
 - Contribution towards Jina’s code documentation ([Documentation](https://github.com/jina-ai/docs)), making the code highly readable. 
 - Scope for refactoring as per best practices.
@@ -60,16 +119,6 @@ We look forward to contributions from our community, engineering team and intern
 - Susana Guzman, Email: susana(dot)guzman(at)jina(dot)ai
 - Yongxuan Zhang, Email: yongxuan(dot)zhang(at)jina(dot)ai
 
-### Project 3: Build an example with Jina for an application of your choice 
-
-- Write a neural search pipeline to solve a real-world problem.
-- Students may use any Kaggle or other publicly available datasets.
-- Include well-written documentation and a blog post (or a Demo video) to create outreach for yourself and Jina.
-
-#### Mentors: 
-
-- Rutuja Surve, Email: rutuja(dot)surve(at)jina(dot)ai
-- Susana Guzman, Email: susana(dot)guzman(at)jina(dot)ai
 
 ### Project 4:  Enhancements for JinaBox and Console
 
