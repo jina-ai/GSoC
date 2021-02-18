@@ -119,7 +119,7 @@ is the code base hosting Jina Examples like southpark-search, pokedex-search.
 
 | **Intensity** | **Priority** | **Involves**                            | **Mentors**                                                                                              |
 |---------------|--------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Moderate      | Medium         | Implement new Jina Hub Models. | Yongxuan Zhang Mail: yongxuan(dot)zhang(at)jina(dot)ai, Susana Guzman Mail: susana(dot)guzman(at)jina(dot)ai, Rutuja Surve Mail: rutuja(dot)surve(at)jina(dot)ai |
+| Moderate      | Medium         | Implement new Jina Hub Models. | Yongxuan Zhang: yongxuan(dot)zhang(at)jina(dot)ai, Susana Guzman: susana(dot)guzman(at)jina(dot)ai, Rutuja Surve: rutuja(dot)surve(at)jina(dot)ai |
  
 
 
@@ -140,7 +140,7 @@ is the code base hosting Jina Examples like southpark-search, pokedex-search.
 
 | **Intensity** | **Priority** | **Involves**                            | **Mentors**                                                                                              |
 |---------------|--------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Moderate      | Medium         | Implement new features for Jina Box, Console. | Sergiy Chemodanov Mail: sergiy(at)jina(dot)ai, Bastin Jafari Mail: bastin(dot)jafari(at)jina(dot)ai|
+| Moderate      | Medium         | Implement new features for Jina Box, Console. | Sergiy Chemodanov: sergiy(at)jina(dot)ai, Bastin Jafari: bastin(dot)jafari(at)jina(dot)ai|
 
 
 #### First Steps
