@@ -132,7 +132,7 @@ is the code base hosting Jina Examples like southpark-search, pokedex-search.
 - Work on exciting frontend features for enhancing UI and UX
 - Contribute to [Jina Hub](https://github.com/jina-ai/jina-hub) or [Jina Box](https://github.com/jina-ai/jinabox.js)
 
-#### Mentor: 
+#### Mentors: 
 
 - Sergiy Chemodanov, Email: sergiy(at)jina(dot)ai
 - Bastin Jafari, Email: bastin(dot)jafari(at)jina(dot)ai
