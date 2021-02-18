@@ -133,7 +133,7 @@ is the code base hosting Jina Examples like southpark-search, pokedex-search.
 
 
 
-### *Project 4:  Enhancements for JinaBox, Jina Console and Dashboard*
+### *Project 4:  Enhancements for JinaBox, Jina Hub or Dashboard*
 
 - Work on exciting frontend features for enhancing UI and UX
 - Contribute to [Jina Hub](https://github.com/jina-ai/jina-hub) or [Jina Box](https://github.com/jina-ai/jinabox.js)
