@@ -85,7 +85,7 @@ Write a neural search pipeline to solve a real-world problem. Use any Kaggle or 
  
 | **Intensity** | **Priority** | **Involves**                            | **Mentors**                                                                                              |
 |---------------|--------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Moderate      | High         | Build an example using Jina | [Rutuja Surve](https://github.com/rutujasurve94) Mail: rutuja(dot)surve(at)jina(dot)ai, [Susana Guzman](https://github.com/catstark) Mail: susana(dot)guzman(at)jina(dot)ai|
+| Moderate      | High         | Build an example using Jina | [Rutuja Surve](https://github.com/rutujasurve94): rutuja(dot)surve(at)jina(dot)ai, [Susana Guzman](https://github.com/catstark): susana(dot)guzman(at)jina(dot)ai|
  
 #### Technical Details
  
@@ -140,8 +140,10 @@ is the code base hosting Jina Examples like southpark-search, pokedex-search.
 
 | **Intensity** | **Priority** | **Involves**                            | **Mentors**                                                                                              |
 |---------------|--------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Moderate      | Medium         | Implement new features for Jina Box, Console. | Sergiy Chemodanov: sergiy(at)jina(dot)ai, Bastin Jafari: bastin(dot)jafari(at)jina(dot)ai|
+| Moderate      | Medium         | Implement new features for Jina Box, Console. | Sergiy Chemodanov: sergiy(at)jina(dot)ai, Bastin Jafari: bastin(dot)jafari(at)jina(dot)ai, Roshan Jossy: roshan(dot)jossy(at)jina(dot)ai|
 
+#### Skills:
+- Reactjs and Javascript
 
 #### First Steps
  
