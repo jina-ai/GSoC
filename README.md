@@ -75,6 +75,7 @@ is the code base hosting Jina Executors.
 - Join our slack channel or mail our mentors to get in touch with them for more information
 
 
+
 ### *Project 2: Build an example for an application of your choice*
  
 #### Abstract
@@ -108,6 +109,8 @@ is the code base hosting Jina Examples like southpark-search, pokedex-search.
 - Discuss your proposal with the mentors.
 - Join our slack channel or mail our mentors to get in touch with them for more information
 
+
+
 ### *Project 3: Improve docstring coverage for Jina*
 
 - Contribution towards Jina’s code documentation ([Documentation](https://github.com/jina-ai/docs)), making the code highly readable. 
@@ -127,15 +130,17 @@ is the code base hosting Jina Examples like southpark-search, pokedex-search.
 - Discuss your proposal with the mentors.
 - Join our slack channel or mail our mentors to get in touch with them for more information
 
-### *Project 4:  Enhancements for JinaBox and Console*
+
+
+### *Project 4:  Enhancements for JinaBox, Jina Console and Dashboard*
 
 - Work on exciting frontend features for enhancing UI and UX
 - Contribute to [Jina Hub](https://github.com/jina-ai/jina-hub) or [Jina Box](https://github.com/jina-ai/jinabox.js)
 
-#### Mentors: 
+| **Intensity** | **Priority** | **Involves**                            | **Mentors**                                                                                              |
+|---------------|--------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Moderate      | Medium         | Implement new features for Jina Box, Console. | Sergiy Chemodanov Mail: sergiy(at)jina(dot)ai, Bastin Jafari Mail: bastin(dot)jafari(at)jina(dot)ai|
 
-- Sergiy Chemodanov, Email: sergiy(at)jina(dot)ai
-- Bastin Jafari, Email: bastin(dot)jafari(at)jina(dot)ai
 
 #### First Steps
  
@@ -143,10 +148,13 @@ is the code base hosting Jina Examples like southpark-search, pokedex-search.
 - Actively get involved with the GitHub issues in these repositories.
 - Join our slack channel or mail our mentors to get in touch with them for more information
 
+
+
 ### *Project X: Interested in proposing a new project idea altogether?*
 
 We are always excited to hear from the community about potential projects and features Jina could host. If you are excited about any idea and would like to
 propose it as a GSoC project, get in touch with our mentors and we'd be very happy to be inclusive.
+
 
 ## Contributing
 
