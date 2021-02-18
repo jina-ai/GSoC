@@ -50,7 +50,7 @@ Contributing to [Jina Hub](https://github.com/jina-ai/jina-hub)
  
 | **Intensity** | **Priority** | **Involves**                            | **Mentors**                                                                                              |
 |---------------|--------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Moderate      | High         | Implement new Jina Hub Models. | [Rutuja Surve](https://github.com/rutujasurve94), Mail: rutuja(dot)surve(at)jina(dot)ai|
+| Moderate      | High         | Implement new Jina Hub Models. | [Rutuja Surve](https://github.com/rutujasurve94): rutuja(dot)surve(at)jina(dot)ai, [Susana Guzman](https://github.com/theUnkownName): susana(dot)guzman(at)jina(dot)ai|
  
 #### Technical Details
  
