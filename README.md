@@ -75,7 +75,7 @@ is the code base hosting Jina Executors.
 - Join our slack channel or mail our mentors to get in touch with them for more information
 
 
-### *Project 2: Build an example for an application of your choice *
+### *Project 2: Build an example for an application of your choice*
  
 #### Abstract
  
@@ -119,6 +119,13 @@ is the code base hosting Jina Examples like southpark-search, pokedex-search.
 - Susana Guzman, Email: susana(dot)guzman(at)jina(dot)ai
 - Yongxuan Zhang, Email: yongxuan(dot)zhang(at)jina(dot)ai
 
+#### First Steps
+ 
+- Study the `jina` and `jina-hub` repository, understand the codebase
+- Actively get involved with the GitHub issues with documentation tag in Jina repo, picking up good beginner tasks, getting in touch with the mentors.
+- Submit patches with clean unit test cases and review them from the jina-engineering team.
+- Discuss your proposal with the mentors.
+- Join our slack channel or mail our mentors to get in touch with them for more information
 
 ### Project 4:  Enhancements for JinaBox and Console
 
