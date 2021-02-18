@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/jina-ai/GSoC/main/images/gsoc.png" alt="Jina GSoC banner" width="300px" height="300px">
+<img src="https://github.com/jina-ai/GSoC/blob/main/images/gsoc.png?raw=true" alt="Jina GSoC banner" width="300px" height="300px">
 </p>
 
 # GSoC 2021 with Jina AI
