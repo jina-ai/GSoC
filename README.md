@@ -113,14 +113,15 @@ is the code base hosting Jina Examples like southpark-search, pokedex-search.
 
 ### *Project 3: Improve docstring coverage for Jina*
 
-- Contribution towards Jina’s code documentation ([Documentation](https://github.com/jina-ai/docs)), making the code highly readable. 
+- Contribution towards Jina’s code and [API Reference Documentation](https://github.com/jina-ai/docs), making the code highly readable. 
 - Scope for refactoring as per best practices.
 
-#### Mentors: 
 
-- Rutuja Surve, Email: rutuja(dot)surve(at)jina(dot)ai
-- Susana Guzman, Email: susana(dot)guzman(at)jina(dot)ai
-- Yongxuan Zhang, Email: yongxuan(dot)zhang(at)jina(dot)ai
+| **Intensity** | **Priority** | **Involves**                            | **Mentors**                                                                                              |
+|---------------|--------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Moderate      | Medium         | Implement new Jina Hub Models. | Yongxuan Zhang Mail: yongxuan(dot)zhang(at)jina(dot)ai, Susana Guzman Mail: susana(dot)guzman(at)jina(dot)ai, Rutuja Surve Mail: rutuja(dot)surve(at)jina(dot)ai |
+ 
+
 
 #### First Steps
  
