@@ -12,13 +12,11 @@ Project Proposals Idea List Page for Google Summer of Code 2021 with Jina
 
 ## About us
 
-[Jina](get.jina.ai) is a leading neural search open source project (2.3K+ GitHub stars and 360+ forks in less than a year). The project is maintained by a full-time engineering team at Jina AI, a company fully committed to open source. 
+[Jina](get.jina.ai) is a leading neural search open source project (13.4K+ GitHub stars and 1.8k+ forks). The project is maintained by a full-time engineering team at Jina AI, a company fully committed to open source. 
 
 We, the Jina community, strive to be helpful and welcoming to new open source contributors. We hope that we can help give students a strong foundation of contributing to open-source artificial intelligence and neural search and learn best engineering practices through their GSoC tenure with us.
 
 All the mentors are from our own engineering team. They will mentor and review the mentee’s deliverables in detail, with timely communication and tracking of projects’ progress, ensuring a very enriching internship experience.
-
-## This summer
 
 ## Project Ideas
 
