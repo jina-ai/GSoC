@@ -17,7 +17,7 @@ Project Proposals Idea List Page for Google Summer of Code 2021 with Jina</b>
 <img src="https://github.com/jina-ai/jina/blob/master/.github/logo-only.gif?raw=true" alt="Jina banner" width="200px">
 </p>-->
 
-##🔎 Who are we
+## 🔎 Who are we
 
 Welcome to the projects page of Jina AI. Jina AI works towards helping developers around the world build neural-search powered apps in minutes. We focus on making AI usable for advanced human interactions and making a better ecosystem for developers. 
 
@@ -62,7 +62,7 @@ You can expect to
 
 ## 💡 Project Ideas
 
-### *Project idea 1- Accurate landmark search system *
+### *Project idea 1- Accurate landmark search system*
 
 | Involves | Jina |
 | --- | --- |
