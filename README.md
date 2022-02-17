@@ -1,10 +1,15 @@
 
 
-# Jina AI ❤️ Google Summer of Code
+# Jina AI with GSoC 2022
 
-<!--<p align="center">
-<img src="https://jina.ai/GSoC/images/gsoc.png" alt="Jina GSoC banner" width="300px" height="300px">
-</p>-->
+
+
+<p align="center">
+<img src="https://jina.ai/assets/images/logo.svg" alt="GSoC banner" width="20%" >
+</p>
+<p align="center">
+<img src="https://summerofcode.withgoogle.com/assets/media/logo.svg" alt="GSoC banner" width="60%" >
+</p>
 
 <!--<p align="center"><b>
 Project Proposals Idea List Page for Google Summer of Code 2021 with Jina</b>
@@ -13,7 +18,7 @@ Project Proposals Idea List Page for Google Summer of Code 2021 with Jina</b>
 <img src="https://github.com/jina-ai/jina/blob/master/.github/logo-only.gif?raw=true" alt="Jina banner" width="200px">
 </p>-->
 
-## Who are we
+##🔎 Who are we
 
 [Jina AI](jina.ai) is an open source software company behind couples of open-source projets, including
 
@@ -27,7 +32,7 @@ Our goal is to build a [neural search](https://docs.jina.ai/get-started/neural-s
 
 
 
-## What You Will Get
+##✅ What You Will Get
 
 We strive to be helpful and welcoming to new open source contributors. We hope that we can help give students a strong foundation of contributing to open-source artificial intelligence and neural search and learn best engineering practices through their GSoC tenure with us.
 
@@ -43,7 +48,8 @@ You can expect to
 
 
 ## 📝 How to Apply
-
+- Link to GSoC
+- Link to self-proposed ideas
 
 ## 💡 Project Ideas
 
@@ -67,3 +73,16 @@ Landmark retrieval is a hot topic in both academic resarch and industrial applic
 
 We are always excited to hear from the community about potential projects and features Jina could host. If you are excited about any idea and would like to
 propose it as a GSoC project, get in touch with our mentors and we'd be very happy to be inclusive.
+
+## 💁🏼 Support
+
+- Join our [Slack community](https://slack.jina.ai) to chat to our engineers about your use cases, questions, and
+  support queries.
+- Join our [Engineering All Hands](https://youtube.com/playlist?list=PL3UBBWOUVhFYRUa_gpYYKBqEAkO4sxmne) meet-up to
+  discuss your use case and learn Jina's new features.
+    - **When?** The second Tuesday of every month
+    - **Where?**
+      Zoom ([see our public calendar](https://calendar.google.com/calendar/embed?src=c_1t5ogfp2d45v8fit981j08mcm4%40group.calendar.google.com&ctz=Europe%2FBerlin)/[.ical](https://calendar.google.com/calendar/ical/c_1t5ogfp2d45v8fit981j08mcm4%40group.calendar.google.com/public/basic.ics)/[Meetup
+      group](https://www.meetup.com/jina-community-meetup/))
+      and [live stream on YouTube](https://youtube.com/c/jina-ai)
+- Subscribe to the latest video tutorials on our [YouTube channel](https://youtube.com/c/jina-ai)
