@@ -3,11 +3,13 @@
 <p align="center">
 <img src="https://jina.ai/assets/images/logo.svg" alt="GSoC banner" width="20%" >
 </p>
+
 <p align="center">
 <b>
 X
 </b>
-<p>
+</p>
+
 <p align="center">
 <img src="https://summerofcode.withgoogle.com/assets/media/logo.svg" alt="GSoC banner" width="60%" >
 </p>
