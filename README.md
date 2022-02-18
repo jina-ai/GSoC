@@ -7,30 +7,36 @@
 <img src="https://jina.ai/assets/images/logo.svg" alt="GSoC banner" width="20%" >
 </p>
 <p align="center">
+<b>
+X
+</b>
+<p>
+<p align="center">
 <img src="https://summerofcode.withgoogle.com/assets/media/logo.svg" alt="GSoC banner" width="60%" >
 </p>
 
-<!--<p align="center"><b>
-Project Proposals Idea List Page for Google Summer of Code 2021 with Jina</b>
-</p>-->
-<!--<p align="center">
-<img src="https://github.com/jina-ai/jina/blob/master/.github/logo-only.gif?raw=true" alt="Jina banner" width="200px">
-</p>-->
 
 ## 🔎 Who are we
+<p align="center">
+<b>
+Welcome to the GSoC projects page of Jina AI! 
+</b>
+</p>
 
-Welcome to the projects page of Jina AI. Jina AI works towards helping developers around the world build neural-search powered apps in minutes. We focus on making AI usable for advanced human interactions and making a better ecosystem for developers. 
+[Jina AI](https://jina.ai/) works towards helping developers around the world build neural-search<sup><a href="https://docs.jina.ai/get-started/neural-search/">?</a></sup> powered apps in minutes. We focus on making AI usable for advanced human interactions and making a better ecosystem for developers. 
 
-Being firm supporters of open source, we have open sourced our 3 projects : 
+Being firm supporters of open source, we have open sourced multiple projects, including:
+ 
 - [Jina](https://github.com/jina-ai/jina): A cloud-native neural search framework to build SOTA and scalable deep learning search applications in minutes.
 - [Finetuner](https://github.com/jina-ai/finetuner): Finetune any deep neural network for better embedding on neural search tasks
 - [DocArray](https://github.com/jina-ai/docarray) : Data type agnostic Python library for effortless processing and manipulation of data. A single data structure for all kinds of data.
-- [Jina Hub](https://hub.jina.ai/): An open source marketplace for Executors.
 
-These 3 projects work in synergy to produce the most accurate neural search systems there are. 
-This year we are enthusiastic about GSoC and we believe this experience will help us empower more users, imoprive open source and overall, improve the developer experience. 
 
-Listed below are 7 medium-advanced project ideas which work towards the idea of using AI for good. Each project comes with a lot of learning and every participant will be guided thoroughly by our dedicated mentors. Please feel free to come up with your own ideas too.
+Plus, we build an open source marketplace for sharing neural search components at [Jina Hub](https://hub.jina.ai/). These projects work in synergy to help developers build solution for various problems, from image search to 3D model search, from semantic search to text-to-image search, from question-answering system to outlier detection. 
+
+We are always enthusiastic about GSoC and we believe this experience will help us empower more users, imoprive open source and overall, improve the developer experience. 
+
+Listed below are 7 medium-advanced project ideas which work towards the idea of using AI for good. Each project comes with a lot of learning and every participant will be guided thoroughly by our dedicated mentors. Furthermore, please feel free to come up with your own ideas too.
 
 We invite everyone to participate in GSoC 2022 with Jina AI!
 
@@ -61,6 +67,14 @@ You can expect to
 - deep dive into AI and ML, learn new concepts and develop apps that serve a purpose.
 
 ## 💡 Project Ideas
+
+| title                                            | Involves                  | Skills needed                                  | Difficulty | Mentors |
+|--------------------------------------------------|---------------------------|------------------------------------------------|------------|---------|
+| Accurate landmark search system                  | Jina, finetuner           | Python, Machine Learning           | Medium     | Bo, Jie |
+| Jina AI playground                               | Jina, DocArray            | Javascript, Python| Hard       |         |
+| Data visualisation in the browser using DocArray | DocArray                  | Javascript, Python| Hard       |         |
+| Build Hub Executors for Jina Hub                 | Jina, DocArray            | Python, Deep learning                          | Hard       |         |
+| 3D search application - Build and Finetune       | Jina, DocArray, finetuner | Python, Deep learning                          | Hard       |         |
 
 ### *Project idea 1- Accurate landmark search system*
 
