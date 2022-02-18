@@ -79,10 +79,10 @@ You can expect to:
 
 | Title                           | Involves      | Skills needed              | Mentors |
 |---------------------------------|---------------|----------------------------|------------|
-| Accurate landmark search system | Jina, DocArray, Finetuner | Python, Deep learning | Bo(dot)Wang(at)jina(dot)ai, Jie(dot)Fu(at)jina(dot)ai|
-| Jina AI playground              | Jina, DocArray | JavaScript, Python, HTML, CSS |Yanlong(dot)Wang(at)jina(dot)ai |
-| Data visualisation in the browser using DocArray | DocArray | JavaScript, Python, HTML, CSS|Bo(dot)Wang(at)jina(dot)ai|
-| 3D search application - Build and Finetune| Jina, DocArray, Finetuner | Python, Deep learning | Felix(dot)Wang(at)jina(dot)ai |
+| [Accurate landmark search system](#project-idea-1-accurate-landmark-search-system) | Jina, DocArray, Finetuner | Python, Deep learning | Bo(dot)Wang(at)jina(dot)ai, Jie(dot)Fu(at)jina(dot)ai|
+| [Jina AI playground](#project-idea-2-jina-ai-playground)              | Jina, DocArray | JavaScript, Python, HTML, CSS |Yanlong(dot)Wang(at)jina(dot)ai |
+| [Data visualisation in the browser using DocArray](#project-idea-3-data-visualisation-in-the-browser-using-docarray) | DocArray | JavaScript, Python, HTML, CSS|Bo(dot)Wang(at)jina(dot)ai|
+| [3D search application](#project-idea-4-3d-search-application---build-and-finetune) | Jina, DocArray, Finetuner | Python, Deep learning | Felix(dot)Wang(at)jina(dot)ai |
 
 ### *Project idea 1: Accurate landmark search system*
 
