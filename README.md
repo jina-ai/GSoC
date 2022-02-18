@@ -1,7 +1,4 @@
-
 # Jina AI with GSoC 2022
-
-
 
 <p align="center">
 <img src="https://jina.ai/assets/images/logo.svg" alt="GSoC banner" width="20%" >
@@ -16,119 +13,119 @@ X
 </p>
 
 
-## 🔎 Who are we
+## 🔎 Who are we?
 <p align="center">
 <b>
 Welcome to the GSoC projects page of Jina AI! 
 </b>
 </p>
 
-[Jina AI](https://jina.ai/) works towards helping developers around the world build neural-search<sup><a href="https://docs.jina.ai/get-started/neural-search/">?</a></sup> powered apps in minutes. We focus on making AI usable for advanced human interactions and making a better ecosystem for developers. 
+[Jina AI](https://jina.ai/) helps developers around the world build neural-search<sup><a href="https://docs.jina.ai/get-started/neural-search/">?</a></sup> powered apps in minutes. We focus on making AI usable for advanced human interactions and building a better ecosystem for developers. 
 
-Being firm supporters of open source, we have open sourced multiple projects, including:
+We are firm supporters of open source and have open sourced multiple projects, including:
  
-- [Jina](https://github.com/jina-ai/jina): A cloud-native neural search framework to build SOTA and scalable deep learning search applications in minutes.
-- [Finetuner](https://github.com/jina-ai/finetuner): Finetune any deep neural network for better embedding on neural search tasks
-- [DocArray](https://github.com/jina-ai/docarray) : Data type agnostic Python library for effortless processing and manipulation of data. A single data structure for all kinds of data.
+- [**Jina**](https://github.com/jina-ai/jina): A cloud-native neural search framework to build state-of-the-art and scalable deep learning search applications in minutes.
+- [**DocArray**](https://github.com/jina-ai/docarray) : Data type agnostic Python library for effortless processing and manipulation of data. A single data structure for all kinds of data.
+- [**Finetuner**](https://github.com/jina-ai/finetuner): Finetune any deep neural network for better embeddings on neural search tasks
 
+We have also built an open source "app store" for sharing neural search components at [Jina Hub](https://hub.jina.ai/). These projects work in synergy to help developers build solutions for various problems, from image search to 3D model search, from semantic search to text-to-image search, from question-answering systems to outlier detection. 
 
-Plus, we build an open source marketplace for sharing neural search components at [Jina Hub](https://hub.jina.ai/). These projects work in synergy to help developers build solution for various problems, from image search to 3D model search, from semantic search to text-to-image search, from question-answering system to outlier detection. 
+We are always enthusiastic about GSoC and we believe this experience will help us empower more users, improve open source and overall, improve developer experience. 
 
-We are always enthusiastic about GSoC and we believe this experience will help us empower more users, imoprive open source and overall, improve the developer experience. 
-
-Listed below are 7 medium-advanced project ideas which work towards the idea of using AI for good. Each project comes with a lot of learning and every participant will be guided thoroughly by our dedicated mentors. Furthermore, please feel free to come up with your own ideas too.
+Listed below are five medium-to-advanced project ideas which work towards the idea of using AI for good. Each project comes with a lot of learning and every participant will be guided thoroughly by our dedicated mentors. Please feel free to come up with your own ideas too!
 
 We invite everyone to participate in GSoC 2022 with Jina AI!
 
 ## Communication:
 
-We have our own [slack channel](https://slack.jina.ai) for communication. Please feel free to contact the mentors listed below with your doubts/queries. 
+We have our own [Slack community](https://slack.jina.ai) for communication. Please feel free to contact the mentors listed below on the #gsoc-support channel with your queries. 
 
-## 📝 How to Apply
+## 📝 How to apply
 
-To apply to one of our projects, the candidates need to create a proposal and we have put together a proposal template so it becomes easier for participants to prepare a proposal. For questions about how to create a proposal, please refer to the proposal guide listed [here](https://google.github.io/gsocguides/student/writing-a-proposal) by GSoC. 
+To apply for one of our projects, candidates need to create a proposal. We have put together a proposal template to make this easier. For questions about how to create a proposal, please refer to the [proposal guide](https://google.github.io/gsocguides/student/writing-a-proposal) from GSoC. 
 
-The submissions need to be made via mail. Please send your proposals to jyoti.bisht@jina.ai before the deadlines as mentioned in the program timeline.
+Submissions need to be made via email. Please send your proposals to jyoti.bisht@jina.ai before the deadlines as mentioned in the program timeline.
 
-## What You Will Get
+## What you will get
 
-We strive to be helpful and welcoming to new open source contributors. We hope that we can help give the participants a strong foundation of contributing to open-source artificial intelligence and neural search and learn best engineering practices through their GSoC tenure with us.
+We strive to be helpful and welcoming to new open-source contributors. We hope that we can give participants a strong foundation of contributing to open-source artificial intelligence and neural search technologies and learn engineering best practices through their GSoC tenure with us.
 
-All the mentors are from our own engineering team. They will mentor and review the mentee’s deliverables in detail, with timely communication and tracking of projects’ progress, ensuring a very enriching internship experience.
+All the mentors are from our own engineering team. They will mentor and review the mentee’s deliverables in detail, with timely communication and tracking of projects' progress, ensuring a very enriching internship experience.
 
-You can expect to
+You can expect to:
 
-- learn how to work in an open source project.
-- learn how to build a neural search system with the SOTA models.
-- learn best practices in writing codes.
-- get credits from GSoC.
-- get awesome SWAGS.
-- upon successful project completion, get invited as a speaker for our community events.
-- deep dive into AI and ML, learn new concepts and develop apps that serve a purpose.
+- Learn how to work in an open-source project.
+- Learn how to build a neural search system with state-of-the-art neural networks.
+- Learn best practices in writing code.
+- Get credits from GSoC.
+- Get awesome swag.
+- Upon successful project completion, get invited as a speaker for our community events.
+- Dive deeply into AI and ML, learn new concepts and develop apps that serve a purpose.
 
-## 💡 Project Ideas
+## 💡 Project ideas
 
-| title                                            | Involves                  | Skills needed                                  | Difficulty | Mentors |
+| Title                                            | Involves                  | Skills needed                                  | Difficulty | Mentors |
 |--------------------------------------------------|---------------------------|------------------------------------------------|------------|---------|
-| Accurate landmark search system                  | Jina, finetuner           | Python, Machine Learning           | Medium     | Bo, Jie |
-| Jina AI playground                               | Jina, DocArray            | Javascript, Python| Hard       |         |
-| Data visualisation in the browser using DocArray | DocArray                  | Javascript, Python| Hard       |         |
+| Accurate landmark search system                  | Jina, Finetuner           | Python, Machine Learning                       | Medium     | Bo, Jie |
+| Jina AI playground                               | Jina, DocArray            | JavaScript, Python| Hard       |         |
+| Data visualisation in the browser using DocArray | DocArray                  | JavaScript, Python| Hard       |         |
 | Build Hub Executors for Jina Hub                 | Jina, DocArray            | Python, Deep learning                          | Hard       |         |
-| 3D search application - Build and Finetune       | Jina, DocArray, finetuner | Python, Deep learning                          | Hard       |         |
+| 3D search application - Build and Finetune       | Jina, DocArray, Finetuner | Python, Deep learning                          | Hard       |         |
 
-### *Project idea 1- Accurate landmark search system*
+### *Project idea 1: Accurate landmark search system*
 
 | Involves | Jina |
 | --- | --- |
-| Skills needed | Python, Javascript, Unit Testing, Architecture design, Machine Learning|
+| Skills needed | Python, JavaScript, Unit Testing, Architecture design, Machine Learning|
 | Project size | Large |
 | Difficulty | Medium |
 | Mentors | |
 
 #### Project description
 
-Landmark retrieval is a hot topic in both academic research and industrial applications. We realise the importance of landmark retrieval rising up again post COVID. As the tourist places open again, we can expect an increase in the number of queries tackled related to landmark search. 
+Landmark retrieval is a hot topic in both academic research and industrial applications. We realise the importance of landmark retrieval rising up again post-COVID. As tourist places open again, we can expect an increase in the number of queries tackled related to landmark search. 
 
-The project aims to create an Image-to-Image search system, wherein we input an image containing a tourist landmark and expect to retrieve photos of the same landmark sites but taken at different times in a year. However, most of the job has been done to optimise the accuracy of the search results, rather than the "usefulness" of the search results. 
+The project aims to create an image-to-image search system, wherein we input an image containing a tourist landmark and expect to retrieve photos of the same landmark sites but taken at different times of the year. However, most of the work thus far has been to optimise accuracy, rather than "usefulness", of the search results. 
 
-This application expects you to train a machine learning model and create a faceted search system. The model will be trained to recognize not only the similar images but also, rank them on the basis of months in a year. The faceted search will enable users to apply for filters and manipulate search according to their use cases.
+This application expects you to train a machine learning model and create a faceted search system. The model will be trained to recognize not only similar images, but also rank them on the basis of months in a year. The faceted search will enable users to filter search results and manipulate searches according to their use cases.
 
-For instance, given a photo of the Great Wall of China, the system renders Great Wall photos and re-ranks them by different seasonal images (e.g. summer scene, snow scene etc..). 
+For instance, given a photo of the Great Wall of China, the system renders Great Wall photos and re-ranks them by different seasonal images (e.g. summer scene, winter scene etc..). 
 
-Finally, the trained model will be put to use in building a tourist Landmark search system with Jina. An additional task would be to showcase the tag of “safe to visit” or “unsafe to visit” in the pandemic.
+Finally, the trained model will be put to use in building a tourist landmark search system with Jina. An additional task would be to showcase the tag of "safe to visit" or "unsafe to visit" in the pandemic.
  
-#### Getting started:
-Please introduce yourself in #introductions channel in our slack channel and learn about Jina by reading the [documentation](https://docs.jina.ai/). 
+#### Get started:
 
-#### 🎯 Desired Outcomes
+Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai) and learn about Jina by reading the [documentation](https://docs.jina.ai/) and [Learning Portal](https://learn.jina.ai). 
+
+#### 🎯 Desired outcomes
 
 
-### *Project idea 2- Jina AI playground*
+### *Project idea 2: Jina AI Playground*
 
 | Involves | Jina |
 | --- | --- |
-| Skills needed | Javascript, Python, Compiler design, Testing, HTML, CSS |
+| Skills needed | JavaScript, Python, Compiler design, Testing, HTML, CSS |
 | Project size | Large |
 | Difficulty | Hard |
 | Mentors | |
 
 #### Project description
 
-Jina’s documentation contains a lot of examples ranging from normal vector search to multimodal searches. External developers wanting to explore neural search and wanting to see how the code correlates to the output, might want to experience some examples hands-on. 
+Jina’s documentation contains a lot of examples ranging from normal vector search to multimodal searches. External developers wanting to explore neural search and see how code correlates to output might want to experience some examples hands-on. 
 
-We are already in the process of building a helpful community where developers can find their doubts cleared easily but we get a lot of questions about runtime errors because of varied environments. To mitigate this and show the users how Jina works and produces results, we propose to create an IDE integrated playground for Jina where the dummy code can be seen in action.
+We are already in the process of building a helpful community where developers can get their questions answered easily but we get a lot of questions about runtime errors because of varied environments. To mitigate this and show the users how Jina works and produces results, we propose to create an integrated playground IDE for Jina where code can be seen in action.
 
-This project will combine Jina’s backend and external frontend frameworks to create a playground where developers will be able to see the source code and the output it renders. 
+This project will combine Jina’s backend with external frontend frameworks to create a playground where developers will be able to see the source code and the output it renders. 
 
-#### Getting started:
-Please introduce yourself in `#introductions` channel in our slack channel and learn about Jina by reading the [documentation](https://docs.jina.ai/). 
+#### Get started:
 
+Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai) and learn about Jina by reading the [documentation](https://docs.jina.ai/) and [Learning Portal](https://learn.jina.ai). 
 
-### *Project idea 3- Data visualisation in the browser using DocArray*
+### *Project idea 3: Data visualisation in the browser using DocArray*
 
 | Involves | Jina |
 | --- | --- |
-| Skills needed | Javascript, Python, Compiler design, Testing, HTML, CSS |
+| Skills needed | JavaScript, Python, Compiler design, Testing, HTML, CSS |
 | Project size | Large |
 | Difficulty | Hard |
 | Mentors | |
@@ -144,8 +141,8 @@ We want to make use of front-end frameworks to bring DocArray’s capabilities i
 Additional functionalities would be welcomed but they are not a necessity. These additional functionalities will be catering to implementing different DocArray functions in the browser like creating a DocArray, matching nearest neighbours, embedding, etc.
 An example of data visualisation can be seen [here](https://docarray.jina.ai/_images/embedding-projector-empty.gif).
 
-#### Getting started:
-Please introduce yourself in `#introductions` channel in our slack channel and learn about DocArray by reading the [documentation](https://docarray.jina.ai/). 
+#### Get started:
+Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai) and learn about Jina by reading the [documentation](https://docs.jina.ai/) and [Learning Portal](https://learn.jina.ai). 
 
 
 ### *Project idea 4- Build Hub Executors for Jina Hub*
@@ -159,20 +156,20 @@ Please introduce yourself in `#introductions` channel in our slack channel and l
 
 #### Project description
 
-Jina Hub is an open source marketplace for [Executors](https://docs.jina.ai/fundamentals/executor/). As AI gets smarter, researchers have been trying to make accurate AI models and better search engines. The ability of AI to recognize data is extending and now spans over image data too. 
-Specifically, with this project we are focusing on improving the user experience for search engines that use image classification. [This](https://arxiv.org/abs/2201.03545) brilliant research paper explains in depth how visual transformers are a good aid in image classification but they face problems in object detection and semantic segmentation. 
+Jina Hub is an open source "app store" for [neural search building blocks](https://docs.jina.ai/fundamentals/executor/). As AI gets smarter, researchers have been trying to make accurate AI models and better search engines. The ability of AI to recognize data is extending and now spans over image data too. 
+Specifically, with this project we are focusing on improving the user experience for search engines that use image classification. [This](https://arxiv.org/abs/2201.03545) brilliant research paper explains in depth how visual transformers are a good aid in image classification but face problems in object detection and semantic segmentation. 
 
-The result of this paper was the birth of ConvNeXt which scales better than Transformers in terms of accuracy and stability. Since this innovation is an improved ConvNet and will help AI researchers around the world, we want to make ConvNeXt-enabled Executor possible for Jina so that the task of image classification becomes easier, more accurate and more user friendly. 
+The result of this paper was the birth of ConvNeXt which scales better than Transformers in accuracy and stability. Since this innovation is an improved ConvNeXt and will help AI researchers around the world, we want to make a ConvNeXt-enabled Executor possible for Jina so that image classification becomes easier, more accurate and more user-friendly. 
 
-This project is well suited for people who are interested in AI and have experience working with neural networks. The project involves a good amount of researching and reading of research papers based on ConvNet models. Jina Hub being purely open source, this will pave the way for developers to use the power of ConvNeXt for building accurate image classification systems.
-
-
-#### Getting started:
-
-Please introduce yourself in `#introductions` channel in our slack and learn about [Jina](https://docs.jina.ai/) and [Jina Hub](https://hub.jina.ai/). The project involves creation of executors, so try to make yourself familiar with Executors in depth.
+This project is well suited for people who are interested in AI and have experience working with neural networks. The project involves a good amount of research and reading research papers based on ConvNet models. [Jina Hub](https://hub.jina.ai) being purely open source, this will pave the way for developers to use the power of ConvNeXt to build accurate image classification systems.
 
 
-### *Project idea 5 - 3D search application - Build and Finetune*
+#### Get started:
+
+Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai) and learn about Jina by reading the [documentation](https://docs.jina.ai/), [Learning Portal](https://learn.jina.ai) and checking out [Jina Hub](https://hub.jina.ai). There will be a big focus on Executors, so we recommend reading up on [Executors and how they work](https://docs.jina.ai/fundamentals/executor/).
+
+
+### *Project idea 5: 3D search application - Build and Finetune*
 
 | Involves | Finetuner |
 | --- | --- |
@@ -183,21 +180,22 @@ Please introduce yourself in `#introductions` channel in our slack and learn abo
 
 #### Project description
 
-3D mesh is a structural build of a 3D model consisting of polygons. The data type is used in a variety of places but it is not always easy to create a search system catering to only the 3D mesh data types. For this project, we have narrowed down our use case to a 3D printer. 
+A 3D mesh is a structural build of a 3D model consisting of polygons. The data type is used in a variety of places but it is not always easy to create a search system catering to only 3D mesh data types. For this project, we have narrowed down our use case to 3D printing.
 
 The project will be an open source search app where users will be able to find 3D models similar to the ones they input. 
 
 The features for the project will be built in 3 steps:
-- Support: The user enters the 3D file as a query. The matching here becomes simple search
-- Feature (required): Image as a query. The challenge would be to take a 2D input and render 3d models as output.
-- Feature (optional) : Text as a query. The challenge here will be to take the input as text and render 3d models related to it.
+
+- Support: The user enters the 3D file as a query. The matching here becomes a simple search
+- Feature (required): Image as a query. The challenge would be to take a 2D input and render 3D models as output.
+- Feature (optional) : Text as a query. The challenge here will be to take the input as text and render 3D models related to it.
 
 
-#### Getting started:
+#### Get started:
 
-A good starting point would be introducing yourself in the `#introductions` channel on our slack and then, learning about [Jina](https://docs.jina.ai/). If you are already familiar with Jina, please look into working with [3D mesh](https://docarray.jina.ai/datatypes/mesh/) with Jina.
+Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai) and learn about Jina by reading the [documentation](https://docs.jina.ai/) and [Learning Portal](https://learn.jina.ai). If you are already familiar with Jina, look into working with [3D mesh](https://docarray.jina.ai/datatypes/mesh/).
 
 ### *Your own idea!*
 
-If you have any idea of your own, please feel free to send it to the mentors listed below. Your message should clearly state the project idea, the motivation behind it, the benefits it brings and a brief idea of how you wish to implement it. The project idea needs to be approved by the mentors to be officially accepted.
+If you have any ideas of your own, please feel free to send them to the mentors listed below. Your message should clearly state the project idea, the motivation behind it, the benefits it brings and a brief idea of how you wish to implement it. The project idea needs to be approved by the mentors to be officially accepted.
 
