@@ -109,7 +109,6 @@ Finally, the trained model will be put to use in building a tourist landmark sea
 | Project size | 350 hours |
 | Mentors | Yanlong(dot)Wang(at)jina(dot)ai |
 
-#### Project description
 
 Jina’s documentation contains a lot of examples ranging from normal vector search to multimodal searches. External developers wanting to explore neural search and see how code correlates to output might want to experience some examples hands-on. 
 
@@ -125,8 +124,6 @@ This project will combine Jina’s backend with external frontend frameworks to 
 | Skills needed | JavaScript, Python, HTML, CSS |
 | Project size | 350 hours |
 | Mentors | Bo(dot)Wang(at)jina(dot)ai |
-
-#### Project description
 
 Data visualisation helps lay a better foundation for data interpretation. Data engineers require data visualisation the most and efforts have been made in making data visualisation easier and faster. 
 
