@@ -87,7 +87,7 @@ You can expect to:
 ### *Project idea 1: Accurate landmark search system*
 
 | info | details |
-| --- | --- |
+|---------------|---------------|
 | Involves | Jina, DocArray, Finetuner |
 | Skills needed | Python, Deep Learning |
 | Project size | 350 hours |
@@ -108,7 +108,7 @@ Finally, the trained model will be put to use in building a tourist landmark sea
 ### *Project idea 2: Jina AI Playground*
 
 | info | details |
-| --- | --- |
+|---------------|---------------|
 | Involves | Jina, DocArray |
 | Skills needed | JavaScript, Python, HTML, CSS |
 | Project size | 350 hours |
@@ -125,7 +125,7 @@ This project will combine Jina’s backend with external frontend frameworks to 
 ### *Project idea 3: Data visualisation in the browser using DocArray*
 
 | info | details |
-| --- | --- |
+|---------------|---------------|
 | Involves | DocArray |
 | Skills needed | JavaScript, Python, HTML, CSS |
 | Project size | 350 hours |
@@ -145,7 +145,7 @@ An example of data visualisation can be seen [here](https://docarray.jina.ai/_im
 ### *Project idea 4: 3D search application - Build and Finetune*
 
 | info | details |
-| --- | --- |
+|---------------|---------------|
 | Involves | Jina, DocArray, Finetuner |
 | Skills needed | Python, Deep Learning |
 | Project size | 350 hours |
