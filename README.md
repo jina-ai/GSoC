@@ -76,7 +76,6 @@ You can expect to:
 | Accurate landmark search system                  | Jina, Finetuner           | Python, Machine Learning                           | Bo Wang, Jie Fu|
 | Jina AI playground                               | Jina, DocArray            | JavaScript, Python    |    Yanlong Wang    |
 | Data visualisation in the browser using DocArray | DocArray                  | JavaScript, Python      |    Bo Wang    |
-| Build Hub Executors for Jina Hub                 | Jina, DocArray            | Python, Deep learning                          |   Winston Wang, George Mahapatras      |
 | 3D search application - Build and Finetune       | Jina, DocArray, Finetuner | Python, Deep learning                          |    Felix Wang     |
 
 ### *Project idea 1: Accurate landmark search system*
@@ -146,30 +145,7 @@ An example of data visualisation can be seen [here](https://docarray.jina.ai/_im
 Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai) and learn about Jina by reading the [documentation](https://docs.jina.ai/) and [Learning Portal](https://learn.jina.ai). 
 
 
-### *Project idea 4- Build Hub Executors for Jina Hub*
-
-| Involves | Jina , Jina Hub|
-| --- | --- |
-| Skills needed | Python, Unit Testing, ConvNet |
-| Project size | Large |
-| Mentors | Winston Wang, George Mastrapas |
-
-#### Project description
-
-Jina Hub is an open source "app store" for [neural search building blocks](https://docs.jina.ai/fundamentals/executor/). As AI gets smarter, researchers have been trying to make accurate AI models and better search engines. The ability of AI to recognize data is extending and now spans over image data too. 
-Specifically, with this project we are focusing on improving the user experience for search engines that use image classification. [This](https://arxiv.org/abs/2201.03545) brilliant research paper explains in depth how visual transformers are a good aid in image classification but face problems in object detection and semantic segmentation. 
-
-The result of this paper was the birth of ConvNeXt which scales better than Transformers in accuracy and stability. Since this innovation is an improved ConvNeXt and will help AI researchers around the world, we want to make a ConvNeXt-enabled Executor possible for Jina so that image classification becomes easier, more accurate and more user-friendly. 
-
-This project is well suited for people who are interested in AI and have experience working with neural networks. The project involves a good amount of research and reading research papers based on ConvNet models. [Jina Hub](https://hub.jina.ai) being purely open source, this will pave the way for developers to use the power of ConvNeXt to build accurate image classification systems.
-
-
-#### Get started:
-
-Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai) and learn about Jina by reading the [documentation](https://docs.jina.ai/), [Learning Portal](https://learn.jina.ai) and checking out [Jina Hub](https://hub.jina.ai). There will be a big focus on Executors, so we recommend reading up on [Executors and how they work](https://docs.jina.ai/fundamentals/executor/).
-
-
-### *Project idea 5: 3D search application - Build and Finetune*
+### *Project idea 4: 3D search application - Build and Finetune*
 
 | Involves | Finetuner |
 | --- | --- |
