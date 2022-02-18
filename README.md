@@ -16,6 +16,7 @@ X
 
 
 ## 🔎 Who are we?
+
 <p align="center">
 <b>
 Welcome to the GSoC projects page of Jina AI! 
@@ -84,6 +85,7 @@ You can expect to:
 | 3D search application - Build and Finetune| Jina, DocArray, Finetuner | Python, Deep learning | Felix(dot)Wang(at)jina(dot)ai |
 
 ### *Project idea 1: Accurate landmark search system*
+
 | info | details |
 | --- | --- |
 | Involves | Jina, DocArray, Finetuner |
@@ -104,6 +106,7 @@ Finally, the trained model will be put to use in building a tourist landmark sea
  
 
 ### *Project idea 2: Jina AI Playground*
+
 | info | details |
 | --- | --- |
 | Involves | Jina, DocArray |
@@ -120,6 +123,7 @@ This project will combine Jina’s backend with external frontend frameworks to 
 
 
 ### *Project idea 3: Data visualisation in the browser using DocArray*
+
 | info | details |
 | --- | --- |
 | Involves | DocArray |
@@ -139,6 +143,7 @@ An example of data visualisation can be seen [here](https://docarray.jina.ai/_im
 
 
 ### *Project idea 4: 3D search application - Build and Finetune*
+
 | info | details |
 | --- | --- |
 | Involves | Jina, DocArray, Finetuner |
@@ -155,7 +160,7 @@ The features for the project will be built in 3 steps:
 
 - Support: The user enters the 3D file as a query. The matching here becomes a simple search
 - Feature (required): Image as a query. The challenge would be to take a 2D input and render 3D models as output.
-- Feature (optional) : Text as a query. The challenge here will be to take the input as text and render 3D models related to it.
+- Feature (optional): Text as a query. The challenge here will be to take the input as text and render 3D models related to it.
 
 
 If you want to know more about how to handle 3D mesh, look into the Jina documentation on [3D mesh](https://docarray.jina.ai/datatypes/mesh/).
