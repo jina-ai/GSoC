@@ -32,7 +32,7 @@ We have also built an open source "app store" for sharing neural search componen
 
 We are always enthusiastic about GSoC and we believe this experience will help us empower more users, improve open source and overall, improve developer experience. 
 
-Listed below are five medium-to-advanced project ideas which work towards the idea of using AI for good. Each project comes with a lot of learning and every participant will be guided thoroughly by our dedicated mentors. Please feel free to come up with your own ideas too!
+Listed below are project ideas which work towards the idea of using AI for good. Each project comes with a lot of learning and every participant will be guided thoroughly by our dedicated mentors. Please feel free to come up with your own ideas too!
 
 We invite everyone to participate in GSoC 2022 with Jina AI!
 
@@ -42,9 +42,18 @@ We have our own [Slack community](https://slack.jina.ai) for communication. Plea
 
 ## 📝 How to apply
 
-To apply for one of our projects, candidates need to create a proposal. We have put together a proposal template to make this easier. For questions about how to create a proposal, please refer to the [proposal guide](https://google.github.io/gsocguides/student/writing-a-proposal) from GSoC. 
+To apply for one of our projects, candidates need to create a proposal. If:
 
-Submissions need to be made via email. Please send your proposals to jyoti.bisht@jina.ai before the deadlines as mentioned in the program timeline.
+- 👉 Option 1: You want to work on your own project idea. The first step would be to get the project idea approved by the mentors by discussing with them over slack. Next, a proposal should be made for that project.
+
+- 👉 Option 2: You want to work on a project idea listed below. Discuss with mentors about the architechture and how you plan on doing it. Next, create a proposal and submit it.
+
+Any proposal submitted should follow [this](https://docs.google.com/document/d/1vPWIxH-o8KBIbL1FPZai5EBLWWnDy2K6FXc2HV3D1q8/edit?usp=sharing) proposal template. Submissions need to be made via email. Please send your proposals to google-soc@jina.ai
+ before the deadline as mentioned in the [program timeline](https://developers.google.com/open-source/gsoc/timeline).
+
+For questions about how to create a good proposal, please refer to the [proposal guide](https://google.github.io/gsocguides/student/writing-a-proposal) from GSoC. 
+
+
 
 ## 🎓 What you will get
 
@@ -64,22 +73,20 @@ You can expect to:
 
 ## 💡 Project ideas
 
-| Title                                            | Involves                  | Skills needed                                  | Difficulty | Mentors |
+| Title                                            | Involves                  | Skills needed                                   | Mentors |
 |--------------------------------------------------|---------------------------|------------------------------------------------|------------|---------|
-| Accurate landmark search system                  | Jina, Finetuner           | Python, Machine Learning                       | Medium     | Bo, Jie |
-| Jina AI playground                               | Jina, DocArray            | JavaScript, Python| Hard       |         |
-| Data visualisation in the browser using DocArray | DocArray                  | JavaScript, Python| Hard       |         |
-| Build Hub Executors for Jina Hub                 | Jina, DocArray            | Python, Deep learning                          | Hard       |         |
-| 3D search application - Build and Finetune       | Jina, DocArray, Finetuner | Python, Deep learning                          | Hard       |         |
+| Accurate landmark search system                  | Jina, DocArray, Finetuner           | Python, Deep learning                           | Bo(dot)Wang(at)jina(dot)ai, Jie(dot)Fu(at)jina(dot)ai|
+| Jina AI playground                               | Jina, DocArray            | JavaScript, Python, HTML, CSS    |    Yanlong(dot)Wang(at)jina(dot)ai    |
+| Data visualisation in the browser using DocArray | DocArray                  | JavaScript, Python, HTML, CSS      |    Bo(dot)Wang(at)jina(dot)ai   |
+| 3D search application - Build and Finetune       | Jina, DocArray, Finetuner | Python, Deep learning                          |    Felix(dot)Wang(at)jina(dot)ai     |
 
 ### *Project idea 1: Accurate landmark search system*
-
-| Involves | Jina |
+| info | details |
 | --- | --- |
-| Skills needed | Python, JavaScript, Unit Testing, Architecture design, Machine Learning|
-| Project size | Large |
-| Difficulty | Medium |
-| Mentors | |
+| Involves | Jina, DocArray, Finetuner |
+| Skills needed | Python, Deep Learning |
+| Project size | 350 hours |
+| Mentors | Bo(dot)Wang(at)jina(dot)ai , Jie(dot)Fu(at)jina(dot)ai |
 
 
 Landmark retrieval is a hot topic in both academic research and industrial applications. We realise the importance of landmark retrieval rising up again post-COVID. As tourist places open again, we can expect an increase in the number of queries tackled related to landmark search. 
@@ -93,18 +100,13 @@ For instance, given a photo of the Great Wall of China, the system renders Great
 Finally, the trained model will be put to use in building a tourist landmark search system with Jina. An additional task would be to showcase the tag of "safe to visit" or "unsafe to visit" in the pandemic.
  
 
-
-#### 🎯 Desired outcomes
-
-
 ### *Project idea 2: Jina AI Playground*
-
-| Involves | Jina |
+| info | details |
 | --- | --- |
-| Skills needed | JavaScript, Python, Compiler design, Testing, HTML, CSS |
-| Project size | Large |
-| Difficulty | Hard |
-| Mentors | |
+| Involves | Jina, DocArray |
+| Skills needed | JavaScript, Python, HTML, CSS |
+| Project size | 350 hours |
+| Mentors | Yanlong(dot)Wang(at)jina(dot)ai |
 
 #### Project description
 
@@ -114,18 +116,14 @@ We are already in the process of building a helpful community where developers c
 
 This project will combine Jina’s backend with external frontend frameworks to create a playground where developers will be able to see the source code and the output it renders. 
 
-#### Get started:
-
-Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai) and learn about Jina by reading the [documentation](https://docs.jina.ai/) and [Learning Portal](https://learn.jina.ai). 
 
 ### *Project idea 3: Data visualisation in the browser using DocArray*
-
-| Involves | Jina |
+| info | details |
 | --- | --- |
-| Skills needed | JavaScript, Python, Compiler design, Testing, HTML, CSS |
-| Project size | Large |
-| Difficulty | Hard |
-| Mentors | |
+| Involves | DocArray |
+| Skills needed | JavaScript, Python, HTML, CSS |
+| Project size | 350 hours |
+| Mentors | Bo(dot)Wang(at)jina(dot)ai |
 
 #### Project description
 
@@ -135,41 +133,18 @@ We have an in-built feature of DocArray that allows the users to visualise their
 
 We want to make use of front-end frameworks to bring DocArray’s capabilities in the browser. The idea is to implement DocArray’s visualisation feature in the browser so that with just a few clicks , users are able to see and interpret their data. The backend would be based on DocArray and solely written in Python while for the front-end, any framework can be used.
 
-Additional functionalities would be welcomed but they are not a necessity. These additional functionalities will be catering to implementing different DocArray functions in the browser like creating a DocArray, matching nearest neighbours, embedding, etc.
+Additional functionalities 350 hourswould be welcomed but they are not a necessity. These additional functionalities will be catering to implementing different DocArray functions in the browser like creating a DocArray, matching nearest neighbours, embedding, etc.
 An example of data visualisation can be seen [here](https://docarray.jina.ai/_images/embedding-projector-empty.gif).
 
-#### Get started:
-Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai) and learn about Jina by reading the [documentation](https://docs.jina.ai/) and [Learning Portal](https://learn.jina.ai). 
 
 
-### *Project idea 4: Build Hub Executors for Jina Hub*
-
-| Involves | Jina, DocArray, Jina Hub|
+### *Project idea 4: 3D search application - Build and Finetune*
+| info | details |
 | --- | --- |
-| Skills needed | Python, Deep Learning |
-| Project Size | 175 hours |
-| Mentors | |
-
-
-Jina Hub is an open source "app store" for [neural search building blocks](https://docs.jina.ai/fundamentals/executor/). As AI gets smarter, researchers have been trying to make accurate AI models and better search engines. The ability of AI to recognize data is extending and now spans over image data too. 
-Specifically, with this project we are focusing on improving the user experience for search engines that use image classification. [This](https://arxiv.org/abs/2201.03545) brilliant research paper explains in depth how visual transformers are a good aid in image classification but face problems in object detection and semantic segmentation. 
-
-The result of this paper was the birth of ConvNeXt which scales better than Transformers in accuracy and stability. Since this innovation is an improved ConvNeXt and will help AI researchers around the world, we want to make a ConvNeXt-enabled Executor possible for Jina so that image classification becomes easier, more accurate and more user-friendly. 
-
-This project is well suited for people who are interested in AI and have experience working with neural networks. The project involves a good amount of research and reading research papers based on ConvNet models. [Jina Hub](https://hub.jina.ai) being purely open source, this will pave the way for developers to use the power of ConvNeXt to build accurate image classification systems.
-
-If you want to know more, we recommend reading up on [Executors and how they work](https://docs.jina.ai/fundamentals/executor/). 
-
-
-
-
-### *Project idea 5: 3D search application - Build and Finetune*
-
 | Involves | Jina, DocArray, Finetuner |
-| --- | --- |
 | Skills needed | Python, Deep Learning |
-| Difficulty | Medium |
-| Mentors | |
+| Project size | 350 hours |
+| Mentors | Felix(dot)Wang(at)jina(dot)ai |
 
 
 A 3D mesh is the structural build of a 3D model consisting of polygons. The data type is used in a variety of places but it is not always easy to create a search system catering to only 3D mesh data types. For this project, we have narrowed down our use case to 3D printing.
