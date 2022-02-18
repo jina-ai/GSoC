@@ -42,9 +42,17 @@ We have our own [Slack community](https://slack.jina.ai) for communication. Plea
 
 ## 📝 How to apply
 
-To apply for one of our projects, candidates need to create a proposal. We have put together a proposal template to make this easier. For questions about how to create a proposal, please refer to the [proposal guide](https://google.github.io/gsocguides/student/writing-a-proposal) from GSoC. 
+To apply for one of our projects, candidates need to create a proposal. If:
+- You want to work on your own project idea: The first step would be to get the project idea approved by the mentors by discussing with them over slack. Next, a proposal should be made for that project.
 
-Submissions need to be made via email. Please send your proposals to jyoti.bisht@jina.ai before the deadlines as mentioned in the program timeline.
+- You want to work on a project idea listed below: Discuss with mentors about the architechture and how you plan on doing it. Next, create a proposal and submit it.
+
+Any proposal submitted should follow [this](https://docs.google.com/document/d/1vPWIxH-o8KBIbL1FPZai5EBLWWnDy2K6FXc2HV3D1q8/edit?usp=sharing) proposal template. 
+
+For questions about how to create a good proposal, please refer to the [proposal guide](https://google.github.io/gsocguides/student/writing-a-proposal) from GSoC. 
+
+Submissions need to be made via email. Please send your proposals to google-soc@jina.ai
+ before the deadline as mentioned in the [program timeline](https://developers.google.com/open-source/gsoc/timeline).
 
 ## What you will get
 
@@ -64,13 +72,12 @@ You can expect to:
 
 ## 💡 Project ideas
 
-| Title                                            | Involves                  | Skills needed                                  | Difficulty | Mentors |
+| Title                                            | Involves                  | Skills needed                                   | Mentors |
 |--------------------------------------------------|---------------------------|------------------------------------------------|------------|---------|
-| Accurate landmark search system                  | Jina, Finetuner           | Python, Machine Learning                       | Medium     | Bo, Jie |
-| Jina AI playground                               | Jina, DocArray            | JavaScript, Python| Hard       |         |
-| Data visualisation in the browser using DocArray | DocArray                  | JavaScript, Python| Hard       |         |
-| Build Hub Executors for Jina Hub                 | Jina, DocArray            | Python, Deep learning                          | Hard       |         |
-| 3D search application - Build and Finetune       | Jina, DocArray, Finetuner | Python, Deep learning                          | Hard       |         |
+| Accurate landmark search system                  | Jina, Finetuner           | Python, Machine Learning                           | Bo Wang, Jie Fu|
+| Jina AI playground                               | Jina, DocArray            | JavaScript, Python    |    Yanlong Wang    |
+| Data visualisation in the browser using DocArray | DocArray                  | JavaScript, Python      |    Bo Wang    |
+| 3D search application - Build and Finetune       | Jina, DocArray, Finetuner | Python, Deep learning                          |    Felix Wang     |
 
 ### *Project idea 1: Accurate landmark search system*
 
@@ -78,8 +85,7 @@ You can expect to:
 | --- | --- |
 | Skills needed | Python, JavaScript, Unit Testing, Architecture design, Machine Learning|
 | Project size | Large |
-| Difficulty | Medium |
-| Mentors | |
+| Mentors | Bo Wang , Jie Fu |
 
 #### Project description
 
@@ -97,17 +103,13 @@ Finally, the trained model will be put to use in building a tourist landmark sea
 
 Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai) and learn about Jina by reading the [documentation](https://docs.jina.ai/) and [Learning Portal](https://learn.jina.ai). 
 
-#### 🎯 Desired outcomes
-
-
 ### *Project idea 2: Jina AI Playground*
 
 | Involves | Jina |
 | --- | --- |
 | Skills needed | JavaScript, Python, Compiler design, Testing, HTML, CSS |
 | Project size | Large |
-| Difficulty | Hard |
-| Mentors | |
+| Mentors | Yanlong Wang |
 
 #### Project description
 
@@ -127,8 +129,7 @@ Please introduce yourself in #gsoc-introductions channel in our [Slack community
 | --- | --- |
 | Skills needed | JavaScript, Python, Compiler design, Testing, HTML, CSS |
 | Project size | Large |
-| Difficulty | Hard |
-| Mentors | |
+| Mentors | Bo Wang |
 
 #### Project description
 
@@ -145,38 +146,13 @@ An example of data visualisation can be seen [here](https://docarray.jina.ai/_im
 Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai) and learn about Jina by reading the [documentation](https://docs.jina.ai/) and [Learning Portal](https://learn.jina.ai). 
 
 
-### *Project idea 4- Build Hub Executors for Jina Hub*
-
-| Involves | Jina , Jina Hub|
-| --- | --- |
-| Skills needed | Python, Unit Testing, ConvNet |
-| Project size | Large |
-| Difficulty | Hard |
-| Mentors | |
-
-#### Project description
-
-Jina Hub is an open source "app store" for [neural search building blocks](https://docs.jina.ai/fundamentals/executor/). As AI gets smarter, researchers have been trying to make accurate AI models and better search engines. The ability of AI to recognize data is extending and now spans over image data too. 
-Specifically, with this project we are focusing on improving the user experience for search engines that use image classification. [This](https://arxiv.org/abs/2201.03545) brilliant research paper explains in depth how visual transformers are a good aid in image classification but face problems in object detection and semantic segmentation. 
-
-The result of this paper was the birth of ConvNeXt which scales better than Transformers in accuracy and stability. Since this innovation is an improved ConvNeXt and will help AI researchers around the world, we want to make a ConvNeXt-enabled Executor possible for Jina so that image classification becomes easier, more accurate and more user-friendly. 
-
-This project is well suited for people who are interested in AI and have experience working with neural networks. The project involves a good amount of research and reading research papers based on ConvNet models. [Jina Hub](https://hub.jina.ai) being purely open source, this will pave the way for developers to use the power of ConvNeXt to build accurate image classification systems.
-
-
-#### Get started:
-
-Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai) and learn about Jina by reading the [documentation](https://docs.jina.ai/), [Learning Portal](https://learn.jina.ai) and checking out [Jina Hub](https://hub.jina.ai). There will be a big focus on Executors, so we recommend reading up on [Executors and how they work](https://docs.jina.ai/fundamentals/executor/).
-
-
-### *Project idea 5: 3D search application - Build and Finetune*
+### *Project idea 4: 3D search application - Build and Finetune*
 
 | Involves | Finetuner |
 | --- | --- |
 | Skills needed | Python, Unit Testing, ConvNet |
 | Project size | Large |
-| Difficulty | Hard |
-| Mentors | |
+| Mentors | Felix Wang |
 
 #### Project description
 
