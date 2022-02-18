@@ -51,7 +51,8 @@ Any proposal submitted should follow [this](https://docs.google.com/document/d/1
 
 For questions about how to create a good proposal, please refer to the [proposal guide](https://google.github.io/gsocguides/student/writing-a-proposal) from GSoC. 
 
-Submissions need to be made via email. Please send your proposals to jyoti.bisht@jina.ai before the deadline as mentioned in the [program timeline](https://developers.google.com/open-source/gsoc/timeline).
+Submissions need to be made via email. Please send your proposals to google-soc@jina.ai
+ before the deadline as mentioned in the [program timeline](https://developers.google.com/open-source/gsoc/timeline).
 
 ## What you will get
 
