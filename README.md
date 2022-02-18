@@ -137,7 +137,7 @@ We have an in-built feature of DocArray that allows the users to visualise their
 
 We want to make use of front-end frameworks to bring DocArray’s capabilities in the browser. The idea is to implement DocArray’s visualisation feature in the browser so that with just a few clicks , users are able to see and interpret their data. The backend would be based on DocArray and solely written in Python while for the front-end, any framework can be used.
 
-Additional functionalities 350 hourswould be welcomed but they are not a necessity. These additional functionalities will be catering to implementing different DocArray functions in the browser like creating a DocArray, matching nearest neighbours, embedding, etc.
+Additional functionalities would be welcomed but they are not a necessity. These additional functionalities will be catering to implementing different DocArray functions in the browser like creating a DocArray, matching nearest neighbours, embedding, etc.
 An example of data visualisation can be seen [here](https://docarray.jina.ai/_images/embedding-projector-empty.gif).
 
 
@@ -169,9 +169,9 @@ If you want to know more about how to handle 3D mesh, look into the Jina documen
 
 If you have any ideas of your own, please feel free to send them to the mentors listed below. Your message should clearly state the project idea, the motivation behind it, the benefits it brings and a brief idea of how you wish to implement it. The project idea needs to be approved by the mentors to be officially accepted.
 
-### Get started
+##🏁 Get started
 
-- Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai) and 
+- Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai).
 - Learn about Jina by reading the [documentation](https://docs.jina.ai/) and [Learning Portal](https://learn.jina.ai).
-- Check out [Jina Hub](https://hub.jina.ai). - 
+- Check out [Jina Hub](https://hub.jina.ai).
 
