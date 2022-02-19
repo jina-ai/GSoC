@@ -115,9 +115,9 @@ Finally, the trained model will be put to use in building a tourist landmark sea
 | Mentors | Yanlong(dot)Wang(at)jina(dot)ai |
 
 
-Jina’s documentation contains a lot of examples ranging from normal vector search to multimodal searches. External developers wanting to explore neural search and see how code correlates to output might want to experience some examples hands-on. 
+We have maintained a few examples ranging from image search to question-answering systems to demonstrate the power of neural search. Meanwhile, we see that some of our community members get frastated by setting the right environment when they want to try out these examples. 
 
-We are already in the process of building a helpful community where developers can get their questions answered easily but we get a lot of questions about runtime errors because of varied environments. To mitigate this and show the users how Jina works and produces results, we propose to create an integrated playground IDE for Jina where code can be seen in action.
+To solve this problem, we propose to create an integrated playground IDE for Jina where code can be seen in action.
 
 This project will combine Jina’s backend with external frontend frameworks to create a playground where developers will be able to see the source code and the output it renders. 
 
@@ -152,15 +152,13 @@ An example of data visualisation can be seen [here](https://docarray.jina.ai/_im
 | Mentors | Felix(dot)Wang(at)jina(dot)ai |
 	
 
-A 3D mesh is the structural build of a 3D model consisting of polygons. The data type is used in a variety of places but it is not always easy to create a search system catering to only 3D mesh data types. For this project, we have narrowed down our use case to 3D printing.
+A 3D mesh is the structural build of a 3D model consisting of polygons. The data type is used in a variety of places but it is not always easy to create a search system catering to only 3D mesh data types. For this project, we have narrowed down our use case to 3D printing. 
 
-The project will be an open source search app where users will be able to find 3D models similar to the ones they input. 
+The goal of this project is to build a neural search app where users will be able to find similar 3D printing models similar. The project involves three steps,
 
-The features for the project will be built in 3 steps:
-
-- Support: The user enters the 3D file as a query. The matching here becomes a simple search
-- Feature (required): Image as a query. The challenge would be to take a 2D input and render 3D models as output.
-- Feature (optional): Text as a query. The challenge here will be to take the input as text and render 3D models related to it.
+1. The user enters the 3D file as a query. The matching here becomes a simple search
+1. Accept images as a query. The challenge would be to take a 2D input and render 3D models as output.
+1. (optional) Accept texts as a query. The challenge here will be to take the input as text and render 3D models related to it.
 
 
 If you want to know more about how to handle 3D mesh, look into the Jina documentation on [3D mesh](https://docarray.jina.ai/datatypes/mesh/).
