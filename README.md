@@ -29,11 +29,11 @@ We are firm supporters of open source and have open sourced multiple projects, i
  
 - [**Jina**](https://github.com/jina-ai/jina): A cloud-native neural search framework to build state-of-the-art and scalable deep learning search applications in minutes.
 - [**DocArray**](https://github.com/jina-ai/docarray): A library for nested, unstructured data in transit, including text, image, audio, video, 3D mesh, etc. It allows deep-learning engineers to efficiently process, embed, search, recommend, store, and transfer the data with a Pythonic API.
-- [**Finetuner**](https://github.com/jina-ai/finetuner): Allows one to tune the weights of any deep neural network for better embeddings on search tasks.
+- [**Finetuner**](https://github.com/jina-ai/finetuner): Lets developers tune the weights of any deep neural network for better embeddings on search tasks.
 
 We have also built an open source "app store" for sharing neural search components at [Jina Hub](https://hub.jina.ai/). These projects work in synergy to help developers build solutions for various problems, from image search to 3D model search, from semantic search to text-to-image search, from question-answering systems to outlier detection. 
 
-We are always enthusiastic about GSoC and we believe this experience will help us empower more users, improve open source and overall, improve developer experience. 
+We are always enthusiastic about GSoC and we believe this experience will help us empower more users, improve open source and overall, enhance developer experience. 
 
 Listed below are project ideas which work towards the idea of using AI for good. Each project comes with a lot of learning and every participant will be guided thoroughly by our dedicated mentors. Please feel free to come up with your own ideas too!
 
@@ -115,7 +115,7 @@ Finally, the trained model will be put to use in building a tourist landmark sea
 | Mentors | Yanlong(dot)Wang(at)jina(dot)ai |
 
 
-We have maintained a few examples ranging from image search to question-answering systems to demonstrate the power of neural search. Meanwhile, we see that some of our community members get frastated by setting the right environment when they want to try out these examples. 
+We have maintained a few examples ranging from image search to question-answering systems to demonstrate the power of neural search. Meanwhile, we see that some of our community members get frustrated by setting the right environment when they want to try out these examples. 
 
 To solve this problem, we propose to create an integrated playground IDE for Jina where code can be seen in action.
 
@@ -133,14 +133,13 @@ This project will combine Jina’s backend with external frontend frameworks to 
 
 Data visualisation helps lay a better foundation for data interpretation. Data engineers require data visualisation the most and efforts have been made in making data visualisation easier and faster. 
 
-We have an in-built feature of DocArray that allows the users to visualise their data. Adding to this, users can also manipulate their data in any way they want. The main motivation behind this project is to showcase DocArray’s visualisation capabilities quickly and give users a hands-on experience.
+We have built-in feature of DocArray that allows users to visualise their data. Adding to this, users can also manipulate their data in any way they want. The main motivation behind this project is to showcase DocArray’s visualisation capabilities quickly and give users a hands-on experience.
 
-We want to make use of front-end frameworks to bring DocArray’s capabilities in the browser. The idea is to implement DocArray’s visualisation feature in the browser so that with just a few clicks , users are able to see and interpret their data. The backend would be based on DocArray and solely written in Python while for the front-end, any framework can be used.
+![](./images/docarray.gif)
 
-Additional functionalities would be welcomed but they are not a necessity. These additional functionalities will be catering to implementing different DocArray functions in the browser like creating a DocArray, matching nearest neighbours, embedding, etc.
-An example of data visualisation can be seen [here](https://docarray.jina.ai/_images/embedding-projector-empty.gif).
+We want to make use of front-end frameworks to bring DocArray’s capabilities in the browser. The idea is to implement DocArray’s visualisation feature in the browser so that with just a few clicks, users are able to see and interpret their data. The backend would be based on DocArray and written solely in Python while for the front-end any framework can be used.
 
-
+Additional functionalities are welcome but are not a necessity. These additional functionalities will cater to implementing different DocArray functions in the browser like creating a DocArray, matching nearest neighbours, embedding, etc.
 
 ### *Project idea 4: 3D search application - Build and Finetune*
 
@@ -154,14 +153,14 @@ An example of data visualisation can be seen [here](https://docarray.jina.ai/_im
 
 A 3D mesh is the structural build of a 3D model consisting of polygons. The data type is used in a variety of places but it is not always easy to create a search system catering to only 3D mesh data types. For this project, we have narrowed down our use case to 3D printing. 
 
-The goal of this project is to build a neural search app where users will be able to find similar 3D printing models similar. The project involves three steps,
+The goal of this project is to build a neural search app where users will be able to find similar 3D models based on a given input. The project involves three steps:
 
-1. The user enters the 3D file as a query. The matching here becomes a simple search
-1. Accept images as a query. The challenge would be to take a 2D input and render 3D models as output.
-1. (optional) Accept texts as a query. The challenge here will be to take the input as text and render 3D models related to it.
+1. The user uploads the 3D file as a query. The matching here becomes a simple search
+1. The user uploads images as a query. The challenge would be to take 2D input and render 3D models as output.
+1. (optional) The user inputs text as a query. The challenge here will be to take the input as text and render 3D models related to it.
 
 
-If you want to know more about how to handle 3D mesh, look into the Jina documentation on [3D mesh](https://docarray.jina.ai/datatypes/mesh/).
+If you want to know more about how to handle 3D meshes, look into the Jina documentation on [3D mesh](https://docarray.jina.ai/datatypes/mesh/).
 
 ### *Your own idea!*
 
