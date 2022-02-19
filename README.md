@@ -23,7 +23,7 @@ Welcome to the GSoC projects page of Jina AI!
 </b>
 </p>
 
-[Jina AI](https://jina.ai/) helps developers around the world build neural-search<sup><a href="https://docs.jina.ai/get-started/neural-search/">?</a></sup> powered apps in minutes. We focus on making AI usable for advanced human interactions and building a better ecosystem for developers. 
+[Jina AI](https175 hours://jina.ai/) helps developers around the world build neural-search<sup><a href="https://docs.jina.ai/get-started/neural-search/">?</a></sup> powered apps in minutes. We focus on making AI usable for advanced human interactions and building a better ecosystem for developers. 
 
 We are firm supporters of open source and have open sourced multiple projects, including:
  
@@ -90,7 +90,7 @@ You can expect to:
 |---------------|---------------|
 | Involves | Jina, DocArray, Finetuner |
 | Skills needed | Python, Deep Learning |
-| Project size | 350 hours |
+| Project size | 175 hours |
 | Mentors | Bo(dot)Wang(at)jina(dot)ai , Jie(dot)Fu(at)jina(dot)ai |
 
 
@@ -111,7 +111,7 @@ Finally, the trained model will be put to use in building a tourist landmark sea
 |---------------|---------------|
 | Involves | Jina, DocArray |
 | Skills needed | JavaScript, Python, HTML, CSS |
-| Project size | 350 hours |
+| Project size | 175 hours |
 | Mentors | Yanlong(dot)Wang(at)jina(dot)ai |
 
 
@@ -128,7 +128,7 @@ This project will combine Jina’s backend with external frontend frameworks to 
 |---------------|---------------|
 | Involves | DocArray |
 | Skills needed | JavaScript, Python, HTML, CSS |
-| Project size | 350 hours |
+| Project size | 175 hours |
 | Mentors | Bo(dot)Wang(at)jina(dot)ai |
 
 Data visualisation helps lay a better foundation for data interpretation. Data engineers require data visualisation the most and efforts have been made in making data visualisation easier and faster. 
@@ -148,9 +148,9 @@ An example of data visualisation can be seen [here](https://docarray.jina.ai/_im
 |---------------|---------------|
 | Involves | Jina, DocArray, Finetuner |
 | Skills needed | Python, Deep Learning |
-| Project size | 350 hours |
+| Project size | 175 hours |
 | Mentors | Felix(dot)Wang(at)jina(dot)ai |
-
+	
 
 A 3D mesh is the structural build of a 3D model consisting of polygons. The data type is used in a variety of places but it is not always easy to create a search system catering to only 3D mesh data types. For this project, we have narrowed down our use case to 3D printing.
 
@@ -169,7 +169,8 @@ If you want to know more about how to handle 3D mesh, look into the Jina documen
 
 If you have any ideas of your own, please feel free to send them to the mentors listed below. Your message should clearly state the project idea, the motivation behind it, the benefits it brings and a brief idea of how you wish to implement it. The project idea needs to be approved by the mentors to be officially accepted.
 
-##🏁 Get started
+
+## 🏁 Get started
 
 - Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai).
 - Learn about Jina by reading the [documentation](https://docs.jina.ai/) and [Learning Portal](https://learn.jina.ai).
