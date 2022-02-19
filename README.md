@@ -119,7 +119,7 @@ We have maintained a few examples ranging from image search to question-answerin
 
 To solve this problem, we propose to create an integrated playground IDE for Jina where code can be seen in action.
 
-This project will combine Jina’s backend with external frontend frameworks to create a playground where developers will be able to see the source code and the output it renders. 
+This project will combine [Jina’s backend](https://github.com/jina-ai/jina/) with external frontend frameworks to create a playground where developers will be able to see the source code and the output it renders. 
 
 
 ### *Project idea 3: Data visualisation in the browser using DocArray*
@@ -133,13 +133,13 @@ This project will combine Jina’s backend with external frontend frameworks to 
 
 Data visualisation helps lay a better foundation for data interpretation. Data engineers require data visualisation the most and efforts have been made in making data visualisation easier and faster. 
 
-We have built-in feature of DocArray that allows users to visualise their data. Adding to this, users can also manipulate their data in any way they want. The main motivation behind this project is to showcase DocArray’s visualisation capabilities quickly and give users a hands-on experience.
+We have built-in feature of [DocArray](https://docarray.jina.ai) that allows users to [visualise their data](https://docarray.jina.ai/fundamentals/documentarray/visualization/). Adding to this, users can also manipulate their data in any way they want. The main motivation behind this project is to showcase DocArray’s visualisation capabilities quickly and give users a hands-on experience.
 
 ![](./images/docarray.gif)
 
-We want to make use of front-end frameworks to bring DocArray’s capabilities in the browser. The idea is to implement DocArray’s visualisation feature in the browser so that with just a few clicks, users are able to see and interpret their data. The backend would be based on DocArray and written solely in Python while for the front-end any framework can be used.
+We want to make use of front-end frameworks to bring DocArray’s capabilities to the browser. The idea is to implement DocArray’s visualisation feature in the browser so that with just a few clicks, users are able to see and interpret their data. The backend would be based on DocArray and written solely in Python while for the front-end any framework can be used.
 
-Additional functionalities are welcome but are not a necessity. These additional functionalities will cater to implementing different DocArray functions in the browser like creating a DocArray, matching nearest neighbours, embedding, etc.
+Additional functionalities are welcome but are not a necessity. These additional functionalities will cater to implementing different DocArray functions in the browser like [creating a DocArray](https://docarray.jina.ai/fundamentals/documentarray/construct/), [matching nearest neighbours](https://docarray.jina.ai/fundamentals/documentarray/matching/), [embedding](https://docarray.jina.ai/fundamentals/documentarray/embedding/), etc.
 
 ### *Project idea 4: 3D search application - Build and Finetune*
 
