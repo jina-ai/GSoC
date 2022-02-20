@@ -45,14 +45,16 @@ We have our own [Slack community](https://slack.jina.ai) for communication. Plea
 
 ## 📝 How to apply
 
-To apply for one of our projects, candidates need to create a proposal. If:
+To apply for one of our projects, candidates need to create a proposal. If
 
-- 👉 Option 1: You want to work on your own project idea. The first step would be to get the project idea approved by the mentors by discussing with them over slack. Next, a proposal should be made for that project.
+- 👉 you want to work on a project idea listed below, discuss with mentors about how you plan on doing and submit a proposal.
 
-- 👉 Option 2: You want to work on a project idea listed below. Discuss with mentors about the architechture and how you plan on doing it. Next, create a proposal and submit it.
+- 👉 you want to work on your own project idea, get the project idea approved by one of the mentors via slack and submit a proposal.
 
-Any proposal submitted should follow [this](https://docs.google.com/document/d/1vPWIxH-o8KBIbL1FPZai5EBLWWnDy2K6FXc2HV3D1q8/edit?usp=sharing) proposal template. Submissions need to be made via email. Please send your proposals to google-soc@jina.ai
- before the deadline as mentioned in the [program timeline](https://developers.google.com/open-source/gsoc/timeline).
+
+
+Any proposal submitted should follow [this](https://docs.google.com/document/d/1vPWIxH-o8KBIbL1FPZai5EBLWWnDy2K6FXc2HV3D1q8/edit?usp=sharing) proposal template. **Submissions need to be made via email.** Please send your proposals to google-soc@jina.ai
+ before the deadline as mentioned in the [program timeline](https://developers.google.com/open-source/gsoc/timeline#march_7_-_april_3).
 
 For questions about how to create a good proposal, please refer to the [proposal guide](https://google.github.io/gsocguides/student/writing-a-proposal) from GSoC. 
 
@@ -79,12 +81,12 @@ You can expect to:
 
 | Title                           | Involves      | Skills needed              | Mentors |
 |---------------------------------|---------------|----------------------------|------------|
-| [Accurate landmark search system](#project-idea-1-accurate-landmark-search-system) | Jina, DocArray, Finetuner | Python, Deep learning | Bo(dot)Wang(at)jina(dot)ai, Jie(dot)Fu(at)jina(dot)ai|
+| [Landmark search system](#project-idea-1-landmark-search-system) | Jina, DocArray, Finetuner | Python, Deep learning | Bo(dot)Wang(at)jina(dot)ai, Jie(dot)Fu(at)jina(dot)ai|
 | [Jina AI playground](#project-idea-2-jina-ai-playground)              | Jina, DocArray | JavaScript, Python, HTML, CSS |Yanlong(dot)Wang(at)jina(dot)ai |
 | [Data visualisation in the browser using DocArray](#project-idea-3-data-visualisation-in-the-browser-using-docarray) | DocArray | JavaScript, Python, HTML, CSS|Bo(dot)Wang(at)jina(dot)ai|
-| [3D search application](#project-idea-4-3d-search-application---build-and-finetune) | Jina, DocArray, Finetuner | Python, Deep learning | Felix(dot)Wang(at)jina(dot)ai |
+| [3D search system](#project-idea-4-3d-search-system---build-and-finetune) | Jina, DocArray, Finetuner | Python, Deep learning | Felix(dot)Wang(at)jina(dot)ai |
 
-### *Project idea 1: Accurate landmark search system*
+### *Project idea 1: Landmark search system*
 
 | info | details |
 |---------------|---------------|
@@ -142,7 +144,7 @@ An example of data visualisation can be seen [here](https://docarray.jina.ai/_im
 
 
 
-### *Project idea 4: 3D search application - Build and Finetune*
+### *Project idea 4: 3D search system - Build and Finetune*
 
 | info | details |
 |---------------|---------------|
@@ -163,10 +165,15 @@ The goal of this project is to build a neural search app where users will be abl
 
 If you want to know more about how to handle 3D mesh, look into the Jina documentation on [3D mesh](https://docarray.jina.ai/datatypes/mesh/).
 
-### *Your own idea!*
+### *Project idea X: Your own idea!*
 
 If you have any ideas of your own, please feel free to send them to the mentors listed below. Your message should clearly state the project idea, the motivation behind it, the benefits it brings and a brief idea of how you wish to implement it. The project idea needs to be approved by the mentors to be officially accepted.
 
+| name | email |
+| ---- | ---- |
+| Bo | Bo(dot)Wang(at)jina(dot)ai |
+| Jem | Jie(dot)Fu(at)jina(dot)ai | 
+| Felix | Felix(dot)Wang(at)jina(dot)ai |
 
 ## 🏁 Get started
 
