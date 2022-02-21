@@ -23,7 +23,7 @@ Welcome to the GSoC projects page of Jina AI!
 </b>
 </p>
 
-[Jina AI](https175 hours://jina.ai/) helps developers around the world build neural-search<sup><a href="https://docs.jina.ai/get-started/neural-search/">?</a></sup> powered apps in minutes. We focus on making AI usable for advanced human interactions and building a better ecosystem for developers. 
+[Jina AI](https://jina.ai/) helps developers around the world build neural-search<sup><a href="https://docs.jina.ai/get-started/neural-search/">?</a></sup> powered apps in minutes. We focus on making AI usable for advanced human interactions and building a better ecosystem for developers. 
 
 We are firm supporters of open source and have open sourced multiple projects, including:
  
