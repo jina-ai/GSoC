@@ -79,7 +79,7 @@ You can expect to:
 ## 💡 Project ideas
 
 
-| Title                           | Involves      | Skills needed              | Mentors |
+| Title                           | Involves      | Skills needed              | Mentors | 
 |---------------------------------|---------------|----------------------------|------------|
 | [Landmark search system](#project-idea-1-landmark-search-system) | Jina, DocArray, Finetuner | Python, Deep learning | Bo(dot)Wang(at)jina(dot)ai, Jie(dot)Fu(at)jina(dot)ai|
 | [Jina AI playground](#project-idea-2-jina-ai-playground)              | Jina, DocArray | JavaScript, Python, HTML, CSS |Yanlong(dot)Wang(at)jina(dot)ai |
@@ -93,6 +93,7 @@ You can expect to:
 | Involves | Jina, DocArray, Finetuner |
 | Skills needed | Python, Deep Learning |
 | Project size | 175 hours |
+| Difficulty level | Medium |
 | Mentors | Bo(dot)Wang(at)jina(dot)ai , Jie(dot)Fu(at)jina(dot)ai |
 
 
@@ -106,6 +107,7 @@ For instance, given a photo of the Great Wall of China, the system renders Great
 
 Finally, the trained model will be put to use in building a tourist landmark search system with Jina. An additional task would be to showcase the tag of "safe to visit" or "unsafe to visit" in the pandemic.
  
+#### Expected outcomes
 
 ### *Project idea 2: Jina AI Playground*
 
@@ -114,6 +116,7 @@ Finally, the trained model will be put to use in building a tourist landmark sea
 | Involves | Jina, DocArray |
 | Skills needed | JavaScript, Python, HTML, CSS |
 | Project size | 175 hours |
+| Difficulty level | Medium |
 | Mentors | Yanlong(dot)Wang(at)jina(dot)ai |
 
 
@@ -123,6 +126,7 @@ To solve this problem, we propose to create an integrated playground IDE for Jin
 
 This project will combine [Jina’s backend](https://github.com/jina-ai/jina/) with external frontend frameworks to create a playground where developers will be able to see the source code and the output it renders. 
 
+#### Expected outcomes
 
 ### *Project idea 3: Data visualisation in the browser using DocArray*
 
@@ -131,6 +135,7 @@ This project will combine [Jina’s backend](https://github.com/jina-ai/jina/) w
 | Involves | DocArray |
 | Skills needed | JavaScript, Python, HTML, CSS |
 | Project size | 175 hours |
+| Difficulty level | Medium |
 | Mentors | Bo(dot)Wang(at)jina(dot)ai |
 
 Data visualisation helps lay a better foundation for data interpretation. Data engineers require data visualisation the most and efforts have been made in making data visualisation easier and faster. 
@@ -143,6 +148,8 @@ We want to make use of front-end frameworks to bring DocArray’s capabilities t
 
 Additional functionalities are welcome but are not a necessity. These additional functionalities will cater to implementing different DocArray functions in the browser like [creating a DocArray](https://docarray.jina.ai/fundamentals/documentarray/construct/), [matching nearest neighbours](https://docarray.jina.ai/fundamentals/documentarray/matching/), [embedding](https://docarray.jina.ai/fundamentals/documentarray/embedding/), etc.
 
+#### Expected outcomes
+
 ### *Project idea 4: 3D search system - Build and Finetune*
 
 | info | details |
@@ -150,6 +157,7 @@ Additional functionalities are welcome but are not a necessity. These additional
 | Involves | Jina, DocArray, Finetuner |
 | Skills needed | Python, Deep Learning |
 | Project size | 175 hours |
+| Difficulty level | Hard |
 | Mentors | Felix(dot)Wang(at)jina(dot)ai |
 	
 
@@ -163,6 +171,9 @@ The goal of this project is to build a neural search app where users will be abl
 
 
 If you want to know more about how to handle 3D meshes, look into the Jina documentation on [3D mesh](https://docarray.jina.ai/datatypes/mesh/).
+
+#### Expected outcomes
+
 
 ### *Project idea X: Your own idea!*
 
