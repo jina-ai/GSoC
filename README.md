@@ -196,7 +196,7 @@ If you want to know more about how to handle 3D meshes, look into the Jina docum
 | info | details |
 |---------------|---------------|
 | Involves | Jina, DocArray, Finetuner |
-| Skills needed | Python, Deep Learning, Neural networks, Streamlit |
+| Skills needed | Python, Neural networks, Streamlit |
 | Project size | 175 hours |
 | Difficulty level | Medium |
 | Mentors | Bo(dot)Wang(at)jina(dot)ai , Felix(dot)Wang(at)jina(dot)ai|
