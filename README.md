@@ -79,12 +79,12 @@ You can expect to:
 ## 💡 Project ideas
 
 
-| Title                           | Involves      | Skills needed              | Mentors | 
+| Title                           | Involves      | Skills needed              | Mentors | Difficulty | Size |
 |---------------------------------|---------------|----------------------------|------------|
-| [Landmark search system](#project-idea-1-landmark-search-system) | Jina, DocArray, Finetuner | Python, Deep learning | Bo(dot)Wang(at)jina(dot)ai, Jie(dot)Fu(at)jina(dot)ai|
-| [Jina AI playground](#project-idea-2-jina-ai-playground)              | Jina, DocArray | JavaScript, Python, HTML, CSS |Yanlong(dot)Wang(at)jina(dot)ai |
-| [Data visualisation in the browser using DocArray](#project-idea-3-data-visualisation-in-the-browser-using-docarray) | DocArray | JavaScript, Python, HTML, CSS|Bo(dot)Wang(at)jina(dot)ai|
-| [3D search system](#project-idea-4-3d-search-system---build-and-finetune) | Jina, DocArray, Finetuner | Python, Deep learning | Felix(dot)Wang(at)jina(dot)ai |
+| [Landmark search system](#project-idea-1-landmark-search-system) | Jina, DocArray, Finetuner | Python, Deep learning | Bo(dot)Wang(at)jina(dot)ai, Jie(dot)Fu(at)jina(dot)ai| Medium | 175 hours |
+| [Jina AI playground](#project-idea-2-jina-ai-playground)              | Jina, DocArray | JavaScript, Python, HTML, CSS |Yanlong(dot)Wang(at)jina(dot)ai | Medium | 175 hours |
+| [Data visualisation in the browser using DocArray](#project-idea-3-data-visualisation-in-the-browser-using-docarray) | DocArray | JavaScript, Python, HTML, CSS|Bo(dot)Wang(at)jina(dot)ai| Medium | 175 hours |
+| [3D search system](#project-idea-4-3d-search-system---build-and-finetune) | Jina, DocArray, Finetuner | Python, Deep learning | Felix(dot)Wang(at)jina(dot)ai | Hard | 175 hours |
 
 ### *Project idea 1: Landmark search system*
 
