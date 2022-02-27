@@ -85,6 +85,7 @@ You can expect to:
 | [Jina AI playground](#project-idea-2-jina-ai-playground)              | Jina, DocArray | JavaScript, Python, HTML, CSS |Yanlong(dot)Wang(at)jina(dot)ai | Medium | 175 hours |
 | [Data visualisation in the browser using DocArray](#project-idea-3-data-visualisation-in-the-browser-using-docarray) | DocArray | JavaScript, Python, HTML, CSS|Bo(dot)Wang(at)jina(dot)ai| Medium | 175 hours |
 | [3D search system](#project-idea-4-3d-search-system---build-and-finetune) | Jina, DocArray, Finetuner | Python, Deep learning | Felix(dot)Wang(at)jina(dot)ai | Hard | 175 hours |
+| [DNA pattern matching using Jina](#project-idea-5-dna-pattern-matching-using-jina) | Jina, DocArray, Finetuner | Python, Neural networks, Streamlit | Felix(dot)Wang(at)jina(dot)ai,Bo(dot)Wang(at)jina(dot)ai | Medium | 175 hours |
 
 ### *Project idea 1: Landmark search system*
 
@@ -189,6 +190,28 @@ If you want to know more about how to handle 3D meshes, look into the Jina docum
 - Blog post about the progress and project.
 - Deep understanding of 3D mesh, Finetuner, Jina and neural search.
 
+
+### *Project idea 5: DNA pattern matching using Jina*
+
+| info | details |
+|---------------|---------------|
+| Involves | Jina, DocArray, Finetuner |
+| Skills needed | Python, Neural networks, Streamlit |
+| Project size | 175 hours |
+| Difficulty level | Medium |
+| Mentors | Bo(dot)Wang(at)jina(dot)ai , Felix(dot)Wang(at)jina(dot)ai|
+
+Modern biological classification helps scientists to group living organisms based on their similarities. Earlier, classification was done using physical characteristics. But, gradually, it became important to increase the depth of classification and analysis had to be more precise. Modern classification makes use of the DNA sequences since they contain information about different species. The problem of comparing and matching the DNA sequences is very interesting and we wish to implement the solution using Jina.
+
+There are many databases available of already analyzed species and every new unclassified DNA sequence is matched with the database to give it a category/group. In our use case, we will take the bitstreams of DNA. Every DNA sequence can be constructed with four bases: A, C, T, and G, and since there are at least 26 billion base pairs already present representing various genomes, string match algorithms prove to be slow. Hence, we make use of ANNs and neural search to create this search engine.
+
+More about the hypothesis can be found in [this](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.258.6636&rep=rep1&type=pdf) research paper. 
+
+#### Expected outcomes
+- Deep understanding of alignment, DNA sequencing, and Jina.
+- Successful front-end integration using Streamlit.
+- Blog article showcasing the progress and outcomes.
+- A search engine finetuned to achieve atleast 82% accuracy.
 
 ### *Project idea X: Your own idea!*
 
