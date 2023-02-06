@@ -17,6 +17,8 @@ Join the Jina AI team for a summer full of coding, learning and fun. Be part of 
 
 If you have questions, please feel free to reach out to us on [Slack](https://jina.ai/slack/) or [GitHub discussions](https://github.com/docarray/docarray/discussions). 
 
+
+
 ## 🔎 Who are we?
 
 <p align="center">
@@ -33,17 +35,21 @@ We are firm supporters of open source and have open sourced multiple projects, i
 
 We are always enthusiastic about GSoC and we believe this experience will help us empower more users, improve open source and overall, enhance developer experience. 
 
+
+
 ## 💡 Project ideas
 
 
 | Title                           | Skills needed | Mentors       | Difficulty | Size |
 |---------------------------------|---------------|----------------------------|------------|-----------|
-| [DocArray wrap ANN libraries](#docArray-wrap-ANN-libraries) | Python, ANN Search experience | @[Johannes](https://github.com/JohannesMessner), @[Sami Jaghouar](https://github.com/samsja) | Medium | 175 hours |
-| Make ANNLite the go-to Vector Search library to be scaled by Jina using the StatefulExecutor feature | ANN, C++, Python, Databases               | @[Felix Wang](https://github.com/numb3r3), @[Joan Martínez](https://github.com/JoanFM) | Hard | 350 Hours |
-| Research about deploying LLM with Jina | Python, Pytorch, CUDA, docker, Kubernetes | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), @[Joan Martínez](https://github.com/JoanFM) |Medium| 350 Hours |
-| Build Executor (model) UI in jina                            | Python                                    | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), | Easy | 175 hours |
-| Expand ANNLite capabilities with BM25 to build Hybrid Search | Python, C++, Lucene, ANN, Inverted Index | @[Felix Wang](https://github.com/numb3r3) @[Joan Martínez](https://github.com/JoanFM) | Hard | 350 hours |
-| JAX support in DocArray v2 | Python, AI/ML, JAX Framework experience | @[Sami Jaghouar](https://github.com/samsja) | Hard | 350 Hours |
+| [DocArray wrap ANN libraries](https://github.com/jina-ai/GSoC#project-idea-1-docarray-wrap-ann-libraries) | Python, ANN Search experience | @[Johannes](https://github.com/JohannesMessner), @[Sami Jaghouar](https://github.com/samsja) | Medium | 175 hours |
+| [Make ANNLite the go-to Vector Search library to be scaled by Jina using the StatefulExecutor feature](https://github.com/jina-ai/GSoC#project-idea-2-make-annlite-the-go-to-vector-search-library-to-be-scaled-by-jina-using-the-statefulexecutor-feature) | ANN, C++, Python, Databases               | @[Felix Wang](https://github.com/numb3r3), @[Joan Martínez](https://github.com/JoanFM) | Hard | 350 Hours |
+| [Research about deploying LLM with Jina](https://github.com/jina-ai/GSoC#project-idea-3-research-about-deploying-llm-with-jina) | Python, Pytorch, CUDA, docker, Kubernetes | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), @[Joan Martínez](https://github.com/JoanFM) |Medium| 350 Hours |
+| [Build Executor (model) UI in jina](https://github.com/jina-ai/GSoC#project-idea-4-build-executor-model-ui-in-jina) | Python                                    | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), | Easy | 175 hours |
+| [Expand ANNLite capabilities with BM25 to build Hybrid Search](https://github.com/jina-ai/GSoC#project-idea-5--expand-annlite-capabilities-with-bm25-to-build-hybrid-search) | Python, C++, Lucene, ANN, Inverted Index | @[Felix Wang](https://github.com/numb3r3) @[Joan Martínez](https://github.com/JoanFM) | Hard | 350 hours |
+| [JAX support in DocArray v2](https://github.com/jina-ai/GSoC#project-idea-6--expand-annlite-capabilities-with-bm25-to-build-hybrid-search) | Python, AI/ML, JAX Framework experience | @[Sami Jaghouar](https://github.com/samsja) | Hard | 350 Hours |
+
+
 
 ### *Project idea 1: DocArray wrap ANN libraries*
 
@@ -136,7 +142,7 @@ ANNLite is ready to be used as a default library to solve Hybrid Search applicat
 
 
 
-### *Project idea 6:  Expand ANNLite capabilities with BM25 to build Hybrid Search*
+### *Project idea 6:  JAX support in DocArray v2*
 
 | info             | details                                     |
 | ---------------- | ------------------------------------------- |
