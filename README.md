@@ -173,6 +173,20 @@ Don't feel limited to the ideas above -- if you've got a cool project you want t
 
 If you have any ideas of your own, please feel free to send them to the mentors listed below. Your message should clearly state the project idea, the motivation behind it, the benefits it brings and a brief idea of how you wish to implement it. The project idea needs to be approved by the mentors to be officially accepted.
 
+# 📝 How to apply
+
+To apply for one of our projects, candidates need to create a proposal. If
+
+- 👉 you want to work on a project idea listed below, discuss with mentors about how you plan on doing and submit a proposal.
+
+- 👉 you want to work on your own project idea, get the project idea approved by one of the mentors via slack and submit a proposal.
+
+The best proposals are from participants who took the time to interact and discuss their ideas with the us before submission. Be sure to include the following: detail on exactly what you're proposing, why you're proposing it, the reason you're qualified to do it, your development methodology, your expected timeline, etc. It should also include details of your academic, industry, and/or open source development experience.
+
+**Submissions need to be made via email.** Please send your proposals to google-soc@jina.ai before the deadline as mentioned in the [program timeline](https://developers.google.com/open-source/gsoc/timeline).
+
+For questions about how to create a good proposal, please refer to the [proposal guide](https://google.github.io/gsocguides/student/writing-a-proposal) from GSoC. 
+
 | name | email |
 | :--- | ---- |
 | @[Felix Wang](https://github.com/numb3r3) | felix.wang@jina.ai |
@@ -182,6 +196,23 @@ If you have any ideas of your own, please feel free to send them to the mentors 
 | @[Johannes](https://github.com/JohannesMessner) | johannes.messner@jina.ai |
 | @[Alaeddine Abdessalem](https://github.com/alaeddine-13) | alaeddine.abdessalem@jina.ai |
 
+
+
+## 🎓 What you will get
+
+We strive to be helpful and welcoming to new open-source contributors. We hope that we can give participants a strong foundation of contributing to open-source Artificial Intelligence technologies and learn engineering best practices through their GSoC tenure with us.
+
+All the mentors are from our own engineering team. They will mentor and review the mentee’s deliverables in detail, with timely communication and tracking of projects' progress, ensuring a very enriching internship experience.
+
+As a student in Jina AI's GSoC program, you will have the opportunity to:
+
+1. Gain hands-on experience with real-world projects and technologies in the field of search and AI.
+2. Work with a mentor from the Jina AI who will support and guide you throughout the program.
+3. Upon successful project completion, get invited as a speaker for our community events.
+4. Regular feedback and help on your efforts, including blogposts, with quick responses from us
+5. Develop your technical skills, including software development, machine learning, and open-source contributions.
+6. Build your professional network and make connections with other students, developers, and experts in the field.
+7. Receive a stipend from Google for your participation in the program.
 
 
 ## 🏁 Get started
@@ -203,24 +234,3 @@ We have our own [Slack community](https://slack.jina.ai) for communication. If y
 The best way to increase your chances of being accepted as a Jina AI GSoCstudent is to start contributing now. Read up on [Jina's contribution documentation](https://github.com/jina-ai/jina/blob/master/CONTRIBUTING.md) and make yourself known to the other contributors by your contributions (ideally, related to the area of your proposal). This way, when it comes time to evaluate student applications, you will be a recognized individual and more likely to receive the attention you need to develop a successful proposal.
 
 We are looking for candidates who can demonstrate that they can work independently on a project. We are here to help, but we cannot monitor your progress every step of the way. Therefore, it is important to show us your motivation. Being active before the submission process is the best way to demonstrate this.
-
-
-
-## 🎓 What you will get
-
-We strive to be helpful and welcoming to new open-source contributors. We hope that we can give participants a strong foundation of contributing to open-source Artificial Intelligence technologies and learn engineering best practices through their GSoC tenure with us.
-
-All the mentors are from our own engineering team. They will mentor and review the mentee’s deliverables in detail, with timely communication and tracking of projects' progress, ensuring a very enriching internship experience.
-
-As a student in Jina AI's GSoC program, you will have the opportunity to:
-
-1. Gain hands-on experience with real-world projects and technologies in the field of search and AI.
-2. Work with a mentor from the Jina AI who will support and guide you throughout the program.
-3. Upon successful project completion, get invited as a speaker for our community events.
-4. Regular feedback and help on your efforts, including blogposts, with quick responses from us
-5. Develop your technical skills, including software development, machine learning, and open-source contributions.
-6. Build your professional network and make connections with other students, developers, and experts in the field.
-7. Receive a stipend from Google for your participation in the program.
-
-
-
