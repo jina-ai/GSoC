@@ -1,4 +1,4 @@
-# Jina AI with GSoC 2022
+# GSOC 2023
 
 <p align="center">
 <img src="https://jina.ai/assets/images/logo.svg" alt="GSoC banner" width="20%" >
@@ -13,7 +13,9 @@ X
 <p align="center">
 <img src="https://summerofcode.withgoogle.com/assets/media/logo.svg" alt="GSoC banner" width="60%" >
 </p>
+Join the Jina AI team for a summer full of coding, learning and fun. Be part of our diverse community! Read [Google's page](https://summerofcode.withgoogle.com/) for more information on how the program works.
 
+If you have questions, please feel free to reach out to us on [Slack](https://jina.ai/slack/) or [GitHub discussions](https://github.com/docarray/docarray/discussions). 
 
 ## 🔎 Who are we?
 
@@ -22,210 +24,197 @@ X
 Welcome to the GSoC projects page of Jina AI! 
 </b>
 </p>
-
-[Jina AI](https://jina.ai/) helps developers around the world build neural-search<sup><a href="https://docs.jina.ai/get-started/neural-search/">?</a></sup> powered apps in minutes. We focus on making AI usable for advanced human interactions and building a better ecosystem for developers. 
+Jina AI provides a powerful platform for building neural-search<sup><a href="https://docs.jina.ai/get-started/neural-search/">?</a></sup>, generative AI services with cloud-native technology, and we are thrilled to participate in Google Summer of Code (GSoC) this year. Our goal is to provide students with opportunities to work on real-world, cutting-edge projects and contribute to the growth of our community.
 
 We are firm supporters of open source and have open sourced multiple projects, including:
- 
-- [**Jina**](https://github.com/jina-ai/jina): A cloud-native neural search framework to build state-of-the-art and scalable deep learning search applications in minutes.
-- [**DocArray**](https://github.com/jina-ai/docarray): A library for nested, unstructured data in transit, including text, image, audio, video, 3D mesh, etc. It allows deep-learning engineers to efficiently process, embed, search, recommend, store, and transfer the data with a Pythonic API.
-- [**Finetuner**](https://github.com/jina-ai/finetuner): Lets developers tune the weights of any deep neural network for better embeddings on search tasks.
 
-We have also built an open source "app store" for sharing neural search components at [Jina Hub](https://hub.jina.ai/). These projects work in synergy to help developers build solutions for various problems, from image search to 3D model search, from semantic search to text-to-image search, from question-answering systems to outlier detection. 
+- [Jina](https://github.com/jina-ai/jina) is a MLOps framework that empowers anyone to build multimodal AI services via cloud native technologies. It uplifts a local PoC into a production-ready service. Jina handles the infrastructure complexity, making advanced solution engineering and cloud-native technologies accessible to every developer.
+- [DocArray](https://github.com/jina-ai/docarray) is a library for nested, unstructured, multimodal data in transit, including text, image, audio, video, 3D mesh, etc. It allows deep-learning engineers to efficiently process, embed, search, recommend, store, and transfer multimodal data with a Pythonic API.
 
 We are always enthusiastic about GSoC and we believe this experience will help us empower more users, improve open source and overall, enhance developer experience. 
 
-Listed below are project ideas which work towards the idea of using AI for good. Each project comes with a lot of learning and every participant will be guided thoroughly by our dedicated mentors. Please feel free to come up with your own ideas too!
+## 💡 Project ideas
 
-We invite everyone to participate in GSoC 2022 with Jina AI!
+
+| Title                           | Skills needed | Mentors       | Difficulty | Size |
+|---------------------------------|---------------|----------------------------|------------|-----------|
+| [DocArray wrap ANN libraries](#docArray-wrap-ANN-libraries) | Python, ANN Search experience | @[Johannes](https://github.com/JohannesMessner), @[Sami Jaghouar](https://github.com/samsja) | Medium | 175 hours |
+| Make ANNLite the go-to Vector Search library to be scaled by Jina using the StatefulExecutor feature | ANN, C++, Python, Databases               | @[Felix Wang](https://github.com/numb3r3), @[Joan Martínez](https://github.com/JoanFM) | Hard | 350 Hours |
+| Research about deploying LLM with Jina | Python, Pytorch, CUDA, docker, Kubernetes | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), @[Joan Martínez](https://github.com/JoanFM) |Medium| 350 Hours |
+| Build Executor (model) UI in jina                            | Python                                    | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), | Easy | 175 hours |
+| Expand ANNLite capabilities with BM25 to build Hybrid Search | Python, C++, Lucene, ANN, Inverted Index | @[Felix Wang](https://github.com/numb3r3) @[Joan Martínez](https://github.com/JoanFM) | Hard | 350 hours |
+| JAX support in DocArray v2 | Python, AI/ML, JAX Framework experience | @[Sami Jaghouar](https://github.com/samsja) | Hard | 350 Hours |
+
+### *Project idea 1: DocArray wrap ANN libraries*
+
+| Info | details |
+|---------------|---------------|
+| Skills needed    | Python, ANN Search experience                                |
+| Project size     | 175 hours                                                    |
+| Difficulty level | Medium                                                       |
+| Mentors          | @[Johannes](https://github.com/JohannesMessner), @[Sami Jaghouar](https://github.com/samsja) |
+
+#### Project Description
+
+In DocArray, we have been concentrating on developing production-ready Vector DBs for large-scale searches. However, there are many ANN libraries without scalability layers that can be integrated into DocArray, making it accessible to academia and production teams with small-to-medium amounts of data, without the need for external services.
+
+#### Expected outcomes
+We have a set of DocStores implementations in DocArray that support the most popular ANN libraries, such as FAISS, Annoy, and Hnswlib.
+
+
+
+### *Project idea 2: Make ANNLite the go-to Vector Search library to be scaled by Jina using the StatefulExecutor feature*
+
+| info | details |
+|---------------|---------------|
+| Skills needed    | ANN, C++, Python, Databases                                  |
+| Project size     | 350 hours                                                    |
+| Difficulty level | Hard                                                         |
+| Mentors          | @[Felix Wang](https://github.com/numb3r3) @[Joan Martínez](https://github.com/JoanFM) |
+
+#### Project Description
+
+Jina is developing a stateful executor feature that enables Deployments with a state to be replicated and scaled. This opens the door to having a Vector Database in our ecosystem effectively and robustly. Iterating on ANNLite to act as the "Lucene" for Jina would be a great opportunity.
+
+#### Expected outcomes
+Prove and come up with an Executor in our Hub that uses ANNlite or DocArray with ANNLite as a backend to be the default Vector Databases for all our examples for mid-sized data requirements.
+
+
+
+### *Project idea 3: Research about deploying LLM with Jina*
+
+| info             | details                                                      |
+| ---------------- | ------------------------------------------------------------ |
+| Skills needed    | Python, Pytorch, CUDA, docker, Kubernetes                    |
+| Project size     | 350 hours                                                    |
+| Difficulty level | Hard                                                         |
+| Mentors          | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), @[Joan Martínez](https://github.com/JoanFM) |
+
+#### Project Description
+
+Recently, large language models (LLMs) have gained attention for their ability to generate text to solve various tasks, such as question-answering, reading comprehension, and coding. However, most of these models are quite large, and deploying them requires certain technologies to be in place to enable scalability when using GPU resources. We aim to assess the capability of deploying such models with Jina and explore what integrations we can build with the existing ecosystem to enable LLM inference using the Jina stack.
+
+#### Expected outcomes
+Jina is ready to be used to deploy and scale LLM to build Generative applications in a cost-efficient manner
+
+
+
+### *Project idea 4: Build Executor (model) UI in jina*
+
+| info             | details                                                  |
+| ---------------- | -------------------------------------------------------- |
+| Skills needed    | Python                                                   |
+| Project size     | 175 hours                                                |
+| Difficulty level | Easy                                                     |
+| Mentors          | @[Alaeddine Abdessalem](https://github.com/alaeddine-13) |
+
+#### Project Description
+
+Jina Executors are components that perform certain tasks and expose them as services using gRPC. Executors accept DocumentArrays as input and output. However, with DocArray v2 focusing on type annotations and enabling annotation of executor endpoints, it becomes possible for executors to describe their services and input/output in the same way as OpenAPI schemas. This allows us to offer built-in UIs for executors, enabling people to easily use their services with multi-modal data. The goal is to build this feature in Jina using Gradio.
+
+#### Expected outcomes
+Submit one or more Pull Requests (PRs) to the Jina repository that enables providing a built-in Executor UI for Executors. The UI can be built using Gradio and should be able to infer information about the Executor service using type annotations.
+
+
+
+
+### *Project idea 5:  Expand ANNLite capabilities with BM25 to build Hybrid Search*
+
+| info             | details                                                      |
+| ---------------- | ------------------------------------------------------------ |
+| Skills needed    | Python, C++, Lucene, ANN, Inverted Index                     |
+| Project size     | 350 hours                                                    |
+| Difficulty level | Hard                                                         |
+| Mentors          | @[Felix Wang](https://github.com/numb3r3) @[Joan Martínez](https://github.com/JoanFM) @[Girish Chandrashekar](https://github.com/girishc13) |
+
+#### Project Description
+
+In relation to #3 project, another interesting approach would be to incorporate BM25 and Hybrid Search into ANNLite, which would enable Jina to build scalable Hybrid Search solutions in the cloud with a powerful default solution.
+
+#### Expected outcomes
+ANNLite is ready to be used as a default library to solve Hybrid Search applications.
+
+
+
+### *Project idea 6:  Expand ANNLite capabilities with BM25 to build Hybrid Search*
+
+| info             | details                                     |
+| ---------------- | ------------------------------------------- |
+| Skills needed    | Python, C++, Lucene, ANN, Inverted Index    |
+| Project size     | 350 hours                                   |
+| Difficulty level | Hard                                        |
+| Mentors          | @[Sami Jaghouar](https://github.com/samsja) |
+
+#### Project Description
+
+DocArray is a library for representing, sending, and storing multi-modal data, with a focus on applications in ML and Neural Search. It currently supports several deep learning frameworks, including PyTorch and TensorFlow. Jax is becoming increasingly popular for deep learning, so we want to integrate it into DocArray.
+
+The project we propose is to add Jax as a backend for DocArray, alongside PyTorch and TensorFlow. The first part would involve rewriting and translating all of the computational backend functions of DocArray with the Jax framework. Then, we would battle-test the implementation against a real Jax use case, such as integrating DocArray with Jax support for model training and serving.
+
+#### Expected outcomes
+
+We aim to provide JAX with the same level of support in DocArray as we do for pytorch, numpy, and tensorflow. The integration should be thoroughly tested and documented.
+
+#### Desired skills
+
+Python proficiency is expected since the DocArray codebase is quite complete. Additionally, experience with the JAX framework and familiarity with the scientific Python ecosystem (e.g. NumPy, Torch, scikit-learn, etc.) is required.
+
+
+
+### *Project idea X: Your own idea!*
+
+Don't feel limited to the ideas above -- if you've got a cool project you want to work on, we'll probably be able to find you a mentor. We plan on approving as many projects as we possibly can.
+
+If you have any ideas of your own, please feel free to send them to the mentors listed below. Your message should clearly state the project idea, the motivation behind it, the benefits it brings and a brief idea of how you wish to implement it. The project idea needs to be approved by the mentors to be officially accepted.
+
+| name | email |
+| :--- | ---- |
+| @[Felix Wang](https://github.com/numb3r3) | felix.wang@jina.ai |
+| @[Sami Jaghouar](https://github.com/samsja) | sami.jaghouar@jina.ai |
+| @[Joan Martínez](https://github.com/JoanFM) | joan.fontanals.martinez@jina.ai |
+| @[Girish Chandrashekar](https://github.com/girishc13) | girish.chandrashekar@jina.ai |
+| @[Johannes](https://github.com/JohannesMessner) | johannes.messner@jina.ai |
+| @[Alaeddine Abdessalem](https://github.com/alaeddine-13) | alaeddine.abdessalem@jina.ai |
+
+
+
+## 🏁 Get started
+
+- Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai).
+- Learn about Jina by reading the [documentation](https://docs.jina.ai/).
+- Check out [Jina Hub](https://cloud.jina.ai/executors).
+
+
 
 ## 🤙 Communication
 
-We have our own [Slack community](https://slack.jina.ai) for communication. Please feel free to contact the mentors listed below on the #gsoc-support channel with your queries. 
-
-## 📝 How to apply
-
-To apply for one of our projects, candidates need to create a proposal. If
-
-- 👉 you want to work on a project idea listed below, discuss with mentors about how you plan on doing and submit a proposal.
-
-- 👉 you want to work on your own project idea, get the project idea approved by one of the mentors via slack and submit a proposal.
+We have our own [Slack community](https://slack.jina.ai) for communication. If you have any questions, please don't hesitate to reach out to the mentors listed below on the #gsoc-support channel.
 
 
 
-Any proposal submitted should follow [this](https://docs.google.com/document/d/1vPWIxH-o8KBIbL1FPZai5EBLWWnDy2K6FXc2HV3D1q8/edit?usp=sharing) proposal template. **Submissions need to be made via email.** Please send your proposals to google-soc@jina.ai
- before the deadline as mentioned in the [program timeline](https://developers.google.com/open-source/gsoc/timeline#march_7_-_april_3).
+## 📝 How can I improve my chances of being accepted?
 
-For questions about how to create a good proposal, please refer to the [proposal guide](https://google.github.io/gsocguides/student/writing-a-proposal) from GSoC. 
+The best way to increase your chances of being accepted as a Jina AI GSoCstudent is to start contributing now. Read up on [Jina's contribution documentation](https://github.com/jina-ai/jina/blob/master/CONTRIBUTING.md) and make yourself known to the other contributors by your contributions (ideally, related to the area of your proposal). This way, when it comes time to evaluate student applications, you will be a recognized individual and more likely to receive the attention you need to develop a successful proposal.
+
+We are looking for candidates who can demonstrate that they can work independently on a project. We are here to help, but we cannot monitor your progress every step of the way. Therefore, it is important to show us your motivation. Being active before the submission process is the best way to demonstrate this.
 
 
 
 ## 🎓 What you will get
 
-We strive to be helpful and welcoming to new open-source contributors. We hope that we can give participants a strong foundation of contributing to open-source artificial intelligence and neural search technologies and learn engineering best practices through their GSoC tenure with us.
+We strive to be helpful and welcoming to new open-source contributors. We hope that we can give participants a strong foundation of contributing to open-source Artificial Intelligence technologies and learn engineering best practices through their GSoC tenure with us.
 
 All the mentors are from our own engineering team. They will mentor and review the mentee’s deliverables in detail, with timely communication and tracking of projects' progress, ensuring a very enriching internship experience.
 
-You can expect to:
+As a student in Jina AI's GSoC program, you will have the opportunity to:
 
-- Learn how to work in an open-source project.
-- Learn how to build a neural search system with state-of-the-art neural networks.
-- Learn best practices in writing code.
-- Get credits from GSoC.
-- Get awesome swag.
-- Upon successful project completion, get invited as a speaker for our community events.
-- Dive deeply into AI and ML, learn new concepts and develop apps that serve a purpose.
-
-## 💡 Project ideas
+1. Gain hands-on experience with real-world projects and technologies in the field of search and AI.
+2. Work with a mentor from the Jina AI who will support and guide you throughout the program.
+3. Upon successful project completion, get invited as a speaker for our community events.
+4. Regular feedback and help on your efforts, including blogposts, with quick responses from us
+5. Develop your technical skills, including software development, machine learning, and open-source contributions.
+6. Build your professional network and make connections with other students, developers, and experts in the field.
+7. Receive a stipend from Google for your participation in the program.
 
 
-| Title                           | Involves      | Skills needed              | Mentors | Difficulty | Size |
-|---------------------------------|---------------|----------------------------|------------|-----------|------|
-| [Landmark search system](#project-idea-1-landmark-search-system) | Jina, DocArray, Finetuner | Python, Deep learning | Bo(dot)Wang(at)jina(dot)ai, Jie(dot)Fu(at)jina(dot)ai| Medium | 175 hours |
-| [Jina AI playground](#project-idea-2-jina-ai-playground)              | Jina, DocArray | JavaScript, Python, HTML, CSS |Yanlong(dot)Wang(at)jina(dot)ai | Medium | 175 hours |
-| [Data visualisation in the browser using DocArray](#project-idea-3-data-visualisation-in-the-browser-using-docarray) | DocArray | JavaScript, Python, HTML, CSS|Bo(dot)Wang(at)jina(dot)ai| Medium | 175 hours |
-| [3D search system](#project-idea-4-3d-search-system---build-and-finetune) | Jina, DocArray, Finetuner | Python, Deep learning | Felix(dot)Wang(at)jina(dot)ai | Hard | 175 hours |
-| [DNA pattern matching using Jina](#project-idea-5-dna-pattern-matching-using-jina) | Jina, DocArray, Finetuner | Python, Neural networks, Streamlit | Felix(dot)Wang(at)jina(dot)ai,Bo(dot)Wang(at)jina(dot)ai | Medium | 175 hours |
-
-### *Project idea 1: Landmark search system*
-
-| info | details |
-|---------------|---------------|
-| Involves | Jina, DocArray, Finetuner |
-| Skills needed | Python, Deep Learning |
-| Project size | 175 hours |
-| Difficulty level | Medium |
-| Mentors | Bo(dot)Wang(at)jina(dot)ai , Jie(dot)Fu(at)jina(dot)ai |
-
-
-Landmark retrieval is a hot topic in both academic research and industrial applications. We realise the importance of landmark retrieval rising up again post-COVID. As tourist places open again, we can expect an increase in the number of queries tackled related to landmark search. 
-
-The project aims to create an image-to-image search system, wherein we input an image containing a tourist landmark and expect to retrieve photos of the same landmark sites but taken at different times of the year. However, most of the work thus far has been to optimise accuracy, rather than "usefulness", of the search results. 
-
-This application expects you to train a machine learning model and create a faceted search system. The model will be trained to recognize not only similar images, but also rank them on the basis of months in a year. The faceted search will enable users to filter search results and manipulate searches according to their use cases.
-
-For instance, given a photo of the Great Wall of China, the system renders Great Wall photos and re-ranks them by different seasonal images (e.g. summer scene, winter scene etc..). 
-
-Finally, the trained model will be put to use in building a tourist landmark search system with Jina. An additional task would be to showcase the tag of "safe to visit" or "unsafe to visit" in the pandemic.
- 
-#### Expected outcomes
-- A finetuned search system which achieves an accuracy of atleast 90%.
-- Deep understanding of Jina and neural search.
-- Front-end integration with Jina's backend.
-- A blog post stating all the progress and outcomes.
-
-### *Project idea 2: Jina AI Playground*
-
-| info | details |
-|---------------|---------------|
-| Involves | Jina, DocArray |
-| Skills needed | JavaScript, Python, HTML, CSS |
-| Project size | 175 hours |
-| Difficulty level | Medium |
-| Mentors | Yanlong(dot)Wang(at)jina(dot)ai |
-
-
-We have maintained a few examples ranging from image search to question-answering systems to demonstrate the power of neural search. Meanwhile, we see that some of our community members get frustrated by setting the right environment when they want to try out these examples. 
-
-To solve this problem, we propose to create an integrated playground IDE for Jina where code can be seen in action.
-
-This project will combine [Jina’s backend](https://github.com/jina-ai/jina/) with external frontend frameworks to create a playground where developers will be able to see the source code and the output it renders. 
-
-#### Expected outcomes
-- An IDE with compatibility with all major browsers (front-end integrated).
-- Blog article about the project and progress.
-- Deep understanding of Jina and DocArray.
-- A hosted website published.
-
-### *Project idea 3: Data visualisation in the browser using DocArray*
-
-| info | details |
-|---------------|---------------|
-| Involves | DocArray |
-| Skills needed | JavaScript, Python, HTML, CSS |
-| Project size | 175 hours |
-| Difficulty level | Medium |
-| Mentors | Bo(dot)Wang(at)jina(dot)ai |
-
-Data visualisation helps lay a better foundation for data interpretation. Data engineers require data visualisation the most and efforts have been made in making data visualisation easier and faster. 
-
-We have built-in feature of [DocArray](https://docarray.jina.ai) that allows users to [visualise their data](https://docarray.jina.ai/fundamentals/documentarray/visualization/). Adding to this, users can also manipulate their data in any way they want. The main motivation behind this project is to showcase DocArray’s visualisation capabilities quickly and give users a hands-on experience.
-
-![](./images/docarray.gif)
-
-We want to make use of front-end frameworks to bring DocArray’s capabilities to the browser. The idea is to implement DocArray’s visualisation feature in the browser so that with just a few clicks, users are able to see and interpret their data. The backend would be based on DocArray and written solely in Python while for the front-end any framework can be used.
-
-Additional functionalities are welcome but are not a necessity. These additional functionalities will cater to implementing different DocArray functions in the browser like [creating a DocArray](https://docarray.jina.ai/fundamentals/documentarray/construct/), [matching nearest neighbours](https://docarray.jina.ai/fundamentals/documentarray/matching/), [embedding](https://docarray.jina.ai/fundamentals/documentarray/embedding/), etc.
-
-#### Expected outcomes
-- Deep understanding of DocArray.
-- Good knowledge of data visualisation.
-- Application implemented in the browser and compatible with all major browsers.
-- Faceted search implemented.
-
-### *Project idea 4: 3D search system - Build and Finetune*
-
-| info | details |
-|---------------|---------------|
-| Involves | Jina, DocArray, Finetuner |
-| Skills needed | Python, Deep Learning |
-| Project size | 175 hours |
-| Difficulty level | Hard |
-| Mentors | Felix(dot)Wang(at)jina(dot)ai |
-	
-
-A 3D mesh is the structural build of a 3D model consisting of polygons. The data type is used in a variety of places but it is not always easy to create a search system catering to only 3D mesh data types. For this project, we have narrowed down our use case to 3D printing. 
-
-The goal of this project is to build a neural search app where users will be able to find similar 3D models based on a given input. The project involves three steps:
-
-1. The user uploads the 3D file as a query. The matching here becomes a simple search
-1. The user uploads images as a query. The challenge would be to take 2D input and render 3D models as output.
-1. (optional) The user inputs text as a query. The challenge here will be to take the input as text and render 3D models related to it.
-
-
-If you want to know more about how to handle 3D meshes, look into the Jina documentation on [3D mesh](https://docarray.jina.ai/datatypes/mesh/).
-
-#### Expected outcomes
-- 3D search system implemented and finetuned to achieve atleast 85% accuracy.
-- Blog post about the progress and project.
-- Deep understanding of 3D mesh, Finetuner, Jina and neural search.
-
-
-### *Project idea 5: DNA pattern matching using Jina*
-
-| info | details |
-|---------------|---------------|
-| Involves | Jina, DocArray, Finetuner |
-| Skills needed | Python, Neural networks, Streamlit |
-| Project size | 175 hours |
-| Difficulty level | Medium |
-| Mentors | Bo(dot)Wang(at)jina(dot)ai , Felix(dot)Wang(at)jina(dot)ai|
-
-Modern biological classification helps scientists to group living organisms based on their similarities. Earlier, classification was done using physical characteristics. But, gradually, it became important to increase the depth of classification and analysis had to be more precise. Modern classification makes use of the DNA sequences since they contain information about different species. The problem of comparing and matching the DNA sequences is very interesting and we wish to implement the solution using Jina.
-
-There are many databases available of already analyzed species and every new unclassified DNA sequence is matched with the database to give it a category/group. In our use case, we will take the bitstreams of DNA. Every DNA sequence can be constructed with four bases: A, C, T, and G, and since there are at least 26 billion base pairs already present representing various genomes, string match algorithms prove to be slow. Hence, we make use of ANNs and neural search to create this search engine.
-
-More about the hypothesis can be found in [this](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.258.6636&rep=rep1&type=pdf) research paper. 
-
-#### Expected outcomes
-- Deep understanding of alignment, DNA sequencing, and Jina.
-- Successful front-end integration using Streamlit.
-- Blog article showcasing the progress and outcomes.
-- A search engine finetuned to achieve atleast 82% accuracy.
-
-### *Project idea X: Your own idea!*
-
-If you have any ideas of your own, please feel free to send them to the mentors listed below. Your message should clearly state the project idea, the motivation behind it, the benefits it brings and a brief idea of how you wish to implement it. The project idea needs to be approved by the mentors to be officially accepted.
-
-| name | email |
-| ---- | ---- |
-| Bo | Bo(dot)Wang(at)jina(dot)ai |
-| Jem | Jie(dot)Fu(at)jina(dot)ai | 
-| Felix | Felix(dot)Wang(at)jina(dot)ai |
-
-## 🏁 Get started
-
-- Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai).
-- Learn about Jina by reading the [documentation](https://docs.jina.ai/) and [Learning Portal](https://learn.jina.ai).
-- Check out [Jina Hub](https://hub.jina.ai).
 
