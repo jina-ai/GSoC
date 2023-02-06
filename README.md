@@ -51,7 +51,7 @@ We are always enthusiastic about GSoC and we believe this experience will help u
 
 
 
-### * 1️⃣ Project idea 1: DocArray wrap ANN libraries*
+### *Project idea 1: DocArray wrap ANN libraries*
 
 | Info | details |
 |---------------|---------------|
@@ -62,14 +62,14 @@ We are always enthusiastic about GSoC and we believe this experience will help u
 
 #### Project Description
 
-In DocArray, we have been concentrating on developing production-ready Vector DBs for large-scale searches. However, there are many ANN libraries without scalability layers that can be integrated into DocArray, making it accessible to academia and production teams with small-to-medium amounts of data, without the need for external services.
+- In DocArray, we have been concentrating on developing production-ready Vector DBs for large-scale searches. However, there are many ANN libraries without scalability layers that can be integrated into DocArray, making it accessible to academia and production teams with small-to-medium amounts of data, without the need for external services.
 
 #### Expected outcomes
-We have a set of DocStores implementations in DocArray that support the most popular ANN libraries, such as FAISS, Annoy, and Hnswlib.
+- We have a set of DocStores implementations in DocArray that support the most popular ANN libraries, such as FAISS, Annoy, and Hnswlib.
 
 
 
-### * 2️⃣ Project idea 2: Make ANNLite the go-to Vector Search library to be scaled by Jina using the StatefulExecutor feature*
+### *Project idea 2: Make ANNLite the go-to Vector Search library to be scaled by Jina using the StatefulExecutor feature*
 
 | info | details |
 |---------------|---------------|
@@ -80,14 +80,14 @@ We have a set of DocStores implementations in DocArray that support the most pop
 
 #### Project Description
 
-Jina is developing a stateful executor feature that enables Deployments with a state to be replicated and scaled. This opens the door to having a Vector Database in our ecosystem effectively and robustly. Iterating on ANNLite to act as the "Lucene" for Jina would be a great opportunity.
+- Jina is developing a stateful executor feature that enables Deployments with a state to be replicated and scaled. This opens the door to having a Vector Database in our ecosystem effectively and robustly. Iterating on ANNLite to act as the "Lucene" for Jina would be a great opportunity.
 
 #### Expected outcomes
-Prove and come up with an Executor in our Hub that uses ANNlite or DocArray with ANNLite as a backend to be the default Vector Databases for all our examples for mid-sized data requirements.
+- Prove and come up with an Executor in our Hub that uses ANNlite or DocArray with ANNLite as a backend to be the default Vector Databases for all our examples for mid-sized data requirements.
 
 
 
-### * 3️⃣ Project idea 3: Research about deploying LLM with Jina*
+### *Project idea 3: Research about deploying LLM with Jina*
 
 | info             | details                                                      |
 | ---------------- | ------------------------------------------------------------ |
@@ -98,14 +98,14 @@ Prove and come up with an Executor in our Hub that uses ANNlite or DocArray with
 
 #### Project Description
 
-Recently, large language models (LLMs) have gained attention for their ability to generate text to solve various tasks, such as question-answering, reading comprehension, and coding. However, most of these models are quite large, and deploying them requires certain technologies to be in place to enable scalability when using GPU resources. We aim to assess the capability of deploying such models with Jina and explore what integrations we can build with the existing ecosystem to enable LLM inference using the Jina stack.
+- Recently, large language models (LLMs) have gained attention for their ability to generate text to solve various tasks, such as question-answering, reading comprehension, and coding. However, most of these models are quite large, and deploying them requires certain technologies to be in place to enable scalability when using GPU resources. We aim to assess the capability of deploying such models with Jina and explore what integrations we can build with the existing ecosystem to enable LLM inference using the Jina stack.
 
 #### Expected outcomes
-Jina is ready to be used to deploy and scale LLM to build Generative applications in a cost-efficient manner
+- Jina is ready to be used to deploy and scale LLM to build Generative applications in a cost-efficient manner
 
 
 
-### * 4️⃣ Project idea 4: Build Executor (model) UI in jina*
+### *Project idea 4: Build Executor (model) UI in jina*
 
 | info             | details                                                  |
 | ---------------- | -------------------------------------------------------- |
@@ -116,15 +116,15 @@ Jina is ready to be used to deploy and scale LLM to build Generative application
 
 #### Project Description
 
-Jina Executors are components that perform certain tasks and expose them as services using gRPC. Executors accept DocumentArrays as input and output. However, with DocArray v2 focusing on type annotations and enabling annotation of executor endpoints, it becomes possible for executors to describe their services and input/output in the same way as OpenAPI schemas. This allows us to offer built-in UIs for executors, enabling people to easily use their services with multi-modal data. The goal is to build this feature in Jina using Gradio.
+- Jina Executors are components that perform certain tasks and expose them as services using gRPC. Executors accept DocumentArrays as input and output. However, with DocArray v2 focusing on type annotations and enabling annotation of executor endpoints, it becomes possible for executors to describe their services and input/output in the same way as OpenAPI schemas. This allows us to offer built-in UIs for executors, enabling people to easily use their services with multi-modal data. The goal is to build this feature in Jina using Gradio.
 
 #### Expected outcomes
-Submit one or more Pull Requests (PRs) to the Jina repository that enables providing a built-in Executor UI for Executors. The UI can be built using Gradio and should be able to infer information about the Executor service using type annotations.
+- Submit one or more Pull Requests (PRs) to the Jina repository that enables providing a built-in Executor UI for Executors. The UI can be built using Gradio and should be able to infer information about the Executor service using type annotations.
 
 
 
 
-### * 5️⃣ Project idea 5:  Expand ANNLite capabilities with BM25 to build Hybrid Search*
+### *Project idea 5:  Expand ANNLite capabilities with BM25 to build Hybrid Search*
 
 | info             | details                                                      |
 | ---------------- | ------------------------------------------------------------ |
@@ -135,14 +135,14 @@ Submit one or more Pull Requests (PRs) to the Jina repository that enables provi
 
 #### Project Description
 
-In relation to #3 project, another interesting approach would be to incorporate BM25 and Hybrid Search into ANNLite, which would enable Jina to build scalable Hybrid Search solutions in the cloud with a powerful default solution.
+- In relation to #3 project, another interesting approach would be to incorporate BM25 and Hybrid Search into ANNLite, which would enable Jina to build scalable Hybrid Search solutions in the cloud with a powerful default solution.
 
 #### Expected outcomes
-ANNLite is ready to be used as a default library to solve Hybrid Search applications.
+- ANNLite is ready to be used as a default library to solve Hybrid Search applications.
 
 
 
-### * 6️⃣ Project idea 6:  JAX support in DocArray v2*
+### *Project idea 6:  JAX support in DocArray v2*
 
 | info             | details                                     |
 | ---------------- | ------------------------------------------- |
@@ -153,21 +153,21 @@ ANNLite is ready to be used as a default library to solve Hybrid Search applicat
 
 #### Project Description
 
-DocArray is a library for representing, sending, and storing multi-modal data, with a focus on applications in ML and Neural Search. It currently supports several deep learning frameworks, including PyTorch and TensorFlow. Jax is becoming increasingly popular for deep learning, so we want to integrate it into DocArray.
+- DocArray is a library for representing, sending, and storing multi-modal data, with a focus on applications in ML and Neural Search. It currently supports several deep learning frameworks, including PyTorch and TensorFlow. Jax is becoming increasingly popular for deep learning, so we want to integrate it into DocArray.
 
-The project we propose is to add Jax as a backend for DocArray, alongside PyTorch and TensorFlow. The first part would involve rewriting and translating all of the computational backend functions of DocArray with the Jax framework. Then, we would battle-test the implementation against a real Jax use case, such as integrating DocArray with Jax support for model training and serving.
+- The project we propose is to add Jax as a backend for DocArray, alongside PyTorch and TensorFlow. The first part would involve rewriting and translating all of the computational backend functions of DocArray with the Jax framework. Then, we would battle-test the implementation against a real Jax use case, such as integrating DocArray with Jax support for model training and serving.
 
 #### Expected outcomes
 
-We aim to provide JAX with the same level of support in DocArray as we do for pytorch, numpy, and tensorflow. The integration should be thoroughly tested and documented.
+- We aim to provide JAX with the same level of support in DocArray as we do for pytorch, numpy, and tensorflow. The integration should be thoroughly tested and documented.
 
 #### Desired skills
 
-Python proficiency is expected since the DocArray codebase is quite complete. Additionally, experience with the JAX framework and familiarity with the scientific Python ecosystem (e.g. NumPy, Torch, scikit-learn, etc.) is required.
+- Python proficiency is expected since the DocArray codebase is quite complete. Additionally, experience with the JAX framework and familiarity with the scientific Python ecosystem (e.g. NumPy, Torch, scikit-learn, etc.) is required.
 
 
 
-##### * 🧬 Project idea X: Your own idea!*
+### *🧬 Project idea X: Your own idea!*
 
 Don't feel limited to the ideas above -- if you've got a cool project you want to work on, we'll probably be able to find you a mentor. We plan on approving as many projects as we possibly can.
 
