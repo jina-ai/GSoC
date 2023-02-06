@@ -13,7 +13,7 @@ X
 <p align="center">
 <img src="https://summerofcode.withgoogle.com/assets/media/logo.svg" alt="GSoC banner" width="60%" >
 </p>
-Join the Jina AI team for a summer full of coding, learning and fun. Be part of our diverse community! Read [Google's page](https://summerofcode.withgoogle.com/) for more information on how the program works.
+Join the Jina AI team for a summer full of coding, learning and fun. Be part of our diverse community! Read more about the program and apply at the [Google Summer of Code website.](https://summerofcode.withgoogle.com/)
 
 If you have questions, please feel free to reach out to us on [Slack](https://jina.ai/slack/) or [GitHub discussions](https://github.com/docarray/docarray/discussions). 
 
@@ -26,12 +26,12 @@ If you have questions, please feel free to reach out to us on [Slack](https://ji
 Welcome to the GSoC projects page of Jina AI! 
 </b>
 </p>
-Jina AI provides a powerful platform for building neural-search<sup><a href="https://docs.jina.ai/get-started/neural-search/">?</a></sup>, generative AI services with cloud-native technology, and we are thrilled to participate in Google Summer of Code (GSoC) this year. Our goal is to provide students with opportunities to work on real-world, cutting-edge projects and contribute to the growth of our community.
+(Jina AI)(https://jina.ai) provides a powerful platform for building neural-search, generative AI services with cloud-native technology, and we are thrilled to participate in Google Summer of Code (GSoC) this year. Our goal is to provide students with opportunities to work on real-world, cutting-edge projects and contribute to the growth of our community.
 
 We are firm supporters of open source and have open sourced multiple projects, including:
 
 - [Jina](https://github.com/jina-ai/jina) is a MLOps framework that empowers anyone to build multimodal AI services via cloud native technologies. It uplifts a local PoC into a production-ready service. Jina handles the infrastructure complexity, making advanced solution engineering and cloud-native technologies accessible to every developer.
-- [DocArray](https://github.com/jina-ai/docarray) is a library for nested, unstructured, multimodal data in transit, including text, image, audio, video, 3D mesh, etc. It allows deep-learning engineers to efficiently process, embed, search, recommend, store, and transfer multimodal data with a Pythonic API.
+- [DocArray](https://github.com/docarray/docarray) is a library for nested, unstructured, multimodal data in transit, including text, image, audio, video, 3D mesh, etc. It allows deep-learning engineers to efficiently process, embed, search, recommend, store, and transfer multimodal data with a Pythonic API.
 
 We are always enthusiastic about GSoC and we believe this experience will help us empower more users, improve open source and overall, enhance developer experience. 
 
