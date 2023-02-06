@@ -51,7 +51,7 @@ We are always enthusiastic about GSoC and we believe this experience will help u
 
 
 
-### *Project idea 1: DocArray wrap ANN libraries*
+### * 1️⃣ Project idea 1: DocArray wrap ANN libraries*
 
 | Info | details |
 |---------------|---------------|
@@ -69,7 +69,7 @@ We have a set of DocStores implementations in DocArray that support the most pop
 
 
 
-### *Project idea 2: Make ANNLite the go-to Vector Search library to be scaled by Jina using the StatefulExecutor feature*
+### * 2️⃣ Project idea 2: Make ANNLite the go-to Vector Search library to be scaled by Jina using the StatefulExecutor feature*
 
 | info | details |
 |---------------|---------------|
@@ -87,7 +87,7 @@ Prove and come up with an Executor in our Hub that uses ANNlite or DocArray with
 
 
 
-### *Project idea 3: Research about deploying LLM with Jina*
+### * 3️⃣ Project idea 3: Research about deploying LLM with Jina*
 
 | info             | details                                                      |
 | ---------------- | ------------------------------------------------------------ |
@@ -105,7 +105,7 @@ Jina is ready to be used to deploy and scale LLM to build Generative application
 
 
 
-### *Project idea 4: Build Executor (model) UI in jina*
+### * 4️⃣ Project idea 4: Build Executor (model) UI in jina*
 
 | info             | details                                                  |
 | ---------------- | -------------------------------------------------------- |
@@ -124,7 +124,7 @@ Submit one or more Pull Requests (PRs) to the Jina repository that enables provi
 
 
 
-### *Project idea 5:  Expand ANNLite capabilities with BM25 to build Hybrid Search*
+### * 5️⃣ Project idea 5:  Expand ANNLite capabilities with BM25 to build Hybrid Search*
 
 | info             | details                                                      |
 | ---------------- | ------------------------------------------------------------ |
@@ -142,7 +142,7 @@ ANNLite is ready to be used as a default library to solve Hybrid Search applicat
 
 
 
-### *Project idea 6:  JAX support in DocArray v2*
+### * 6️⃣ Project idea 6:  JAX support in DocArray v2*
 
 | info             | details                                     |
 | ---------------- | ------------------------------------------- |
@@ -167,7 +167,7 @@ Python proficiency is expected since the DocArray codebase is quite complete. Ad
 
 
 
-### *Project idea X: Your own idea!*
+##### * 🧬 Project idea X: Your own idea!*
 
 Don't feel limited to the ideas above -- if you've got a cool project you want to work on, we'll probably be able to find you a mentor. We plan on approving as many projects as we possibly can.
 
