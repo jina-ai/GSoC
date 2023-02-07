@@ -42,10 +42,10 @@ We are always enthusiastic about GSoC and we believe this experience will help u
 
 | Title                           | Skills needed | Mentors       | Difficulty | Size |
 |---------------------------------|---------------|----------------------------|------------|-----------|
-| [DocArray wrap ANN libraries](https://github.com/jina-ai/GSoC#project-idea-1-docarray-wrap-ann-libraries) | Python, ANN Search experience | @[Johannes](https://github.com/JohannesMessner), @[Sami Jaghouar](https://github.com/samsja) | Medium | 175 hours |
+| [DocArray wrap ANN libraries](https://github.com/jina-ai/GSoC#project-idea-1-docarray-wrap-ann-libraries) | Python, ANN Search experience | @[Johannes](https://github.com/JohannesMessner), @[Sami Jaghouar](https://github.com/samsja), @[Philip Vollet](https://www.linkedin.com/in/philipvollet) | Medium | 175 hours |
 | [Make ANNLite the go-to Vector Search library to be scaled by Jina using the StatefulExecutor feature](https://github.com/jina-ai/GSoC#project-idea-2-make-annlite-the-go-to-vector-search-library-to-be-scaled-by-jina-using-the-statefulexecutor-feature) | ANN, C++, Python, Databases               | @[Felix Wang](https://github.com/numb3r3), @[Joan Martínez](https://github.com/JoanFM) | Hard | 350 Hours |
-| [Research about deploying LLM with Jina](https://github.com/jina-ai/GSoC#project-idea-3-research-about-deploying-llm-with-jina) | Python, Pytorch, CUDA, docker, Kubernetes | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), @[Joan Martínez](https://github.com/JoanFM) |Medium| 350 Hours |
-| [Build Executor (model) UI in jina](https://github.com/jina-ai/GSoC#project-idea-4-build-executor-model-ui-in-jina) | Python                                    | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), | Easy | 175 hours |
+| [Research about deploying LLM with Jina](https://github.com/jina-ai/GSoC#project-idea-3-research-about-deploying-llm-with-jina) | Python, Pytorch, CUDA, docker, Kubernetes | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), @[Joan Martínez](https://github.com/JoanFM), @[Philip Vollet](https://www.linkedin.com/in/philipvollet) |Medium| 350 Hours |
+| [Build Executor (model) UI in jina](https://github.com/jina-ai/GSoC#project-idea-4-build-executor-model-ui-in-jina) | Python                                    | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), @[Philip Vollet](https://www.linkedin.com/in/philipvollet) | Easy | 175 hours |
 | [Expand ANNLite capabilities with BM25 to build Hybrid Search](https://github.com/jina-ai/GSoC#project-idea-5--expand-annlite-capabilities-with-bm25-to-build-hybrid-search) | Python, C++, Lucene, ANN, Inverted Index | @[Felix Wang](https://github.com/numb3r3), @[Joan Martínez](https://github.com/JoanFM), @[Girish Chandrashekar](https://github.com/girishc13) | Hard | 350 hours |
 | [JAX support in DocArray v2](https://github.com/jina-ai/GSoC#project-idea-6--expand-annlite-capabilities-with-bm25-to-build-hybrid-search) | Python, AI/ML, JAX Framework experience | @[Sami Jaghouar](https://github.com/samsja) | Hard | 350 Hours |
 
@@ -58,7 +58,7 @@ We are always enthusiastic about GSoC and we believe this experience will help u
 | Skills needed    | Python, ANN Search experience                                |
 | Project size     | 175 hours                                                    |
 | Difficulty level | Medium                                                       |
-| Mentors          | @[Johannes](https://github.com/JohannesMessner), @[Sami Jaghouar](https://github.com/samsja) |
+| Mentors          | @[Johannes](https://github.com/JohannesMessner), @[Sami Jaghouar](https://github.com/samsja), @[Philip Vollet](https://www.linkedin.com/in/philipvollet) |
 
 #### Project Description
 
@@ -94,7 +94,7 @@ We are always enthusiastic about GSoC and we believe this experience will help u
 | Skills needed    | Python, Pytorch, CUDA, docker, Kubernetes                    |
 | Project size     | 350 hours                                                    |
 | Difficulty level | Hard                                                         |
-| Mentors          | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), @[Joan Martínez](https://github.com/JoanFM) |
+| Mentors          | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), @[Joan Martínez](https://github.com/JoanFM), @[Philip Vollet](https://www.linkedin.com/in/philipvollet) |
 
 #### Project Description
 
@@ -112,7 +112,7 @@ We are always enthusiastic about GSoC and we believe this experience will help u
 | Skills needed    | Python                                                   |
 | Project size     | 175 hours                                                |
 | Difficulty level | Easy                                                     |
-| Mentors          | @[Alaeddine Abdessalem](https://github.com/alaeddine-13) |
+| Mentors          | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), @[Philip Vollet](https://www.linkedin.com/in/philipvollet) |
 
 #### Project Description
 
@@ -195,6 +195,7 @@ For questions about how to create a good proposal, please refer to the [proposal
 | @[Girish Chandrashekar](https://github.com/girishc13) | girish.chandrashekar@jina.ai |
 | @[Johannes](https://github.com/JohannesMessner) | johannes.messner@jina.ai |
 | @[Alaeddine Abdessalem](https://github.com/alaeddine-13) | alaeddine.abdessalem@jina.ai |
+| @[Philip Vollet](https://www.linkedin.com/in/philipvollet) | philip.vollet@jina.ai |
 
 
 
