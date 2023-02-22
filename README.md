@@ -272,7 +272,7 @@ As a student in Jina AI's GSoC program, you will have the opportunity to:
 
 ## 🏁 Get started
 
-- Please introduce yourself in #gsoc-introductions channel in our [Slack community](https://slack.jina.ai).
+- Please introduce yourself in #introductions channel in our [Slack community](https://slack.jina.ai).
 - Learn about Jina by reading the [documentation](https://docs.jina.ai/).
 - Check out [Jina Hub](https://cloud.jina.ai/executors).
 
