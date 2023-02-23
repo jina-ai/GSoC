@@ -225,7 +225,7 @@ We expect your application to be between 1000-1500 words. Your proposal should i
 
 3. Abstract
 
-Provide a brief summary of your proposal, including what it will contribute to the project and to Weaviate.
+Provide a brief summary of your proposal, including what it will contribute to the project and to Jina AI.
 
 4. Detailed Description
 
