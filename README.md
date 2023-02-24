@@ -43,11 +43,13 @@ For details and rules of GSoC, please read the [GSoC Manual](https://google.gith
 Welcome to the GSoC projects page of Jina AI! 
 </b>
 </p>
+
 [Jina AI](https://jina.ai) provides a powerful platform for building neural-search, generative AI services with cloud-native technology, and we are thrilled to participate in Google Summer of Code (GSoC) this year. Our goal is to provide students with opportunities to work on real-world, cutting-edge projects and contribute to the growth of our community.
 
 We are firm supporters of open source and have open sourced multiple projects, including:
 
 - [Jina](https://github.com/jina-ai/jina) is a MLOps framework that empowers anyone to build multimodal AI services via cloud native technologies. It uplifts a local PoC into a production-ready service. Jina handles the infrastructure complexity, making advanced solution engineering and cloud-native technologies accessible to every developer. Check out the [documentation](https://docs.jina.ai/)!
+
 - [DocArray](https://github.com/docarray/docarray) is a library for nested, unstructured, multimodal data in transit, including text, image, audio, video, 3D mesh, etc. It allows deep-learning engineers to efficiently process, embed, search, recommend, store, and transfer multimodal data with a Pythonic API. and [DocArray is now hosted under the Linux Foundation AI & Data.](https://jina.ai/news/donate-docarray-lf-for-inclusive-standard-multimodal-data-model/)  Check out the [documentation](https://docs.docarray.org/) and [roadmap](https://github.com/docarray/docarray/issues/780)!
 
 
@@ -91,7 +93,7 @@ If you have any ideas of your own, Please feel free to use [Issues](https://gith
 
 - **GitHub:** Please use [Issues](https://github.com/jina-ai/GSoC/issues) to comment on project ideas, ask questions and collaborate.
 
-- **Slack：**We have our own [Slack Community](https://slack.jina.ai) for communication.
+- **Slack:** We have our own [Slack Community](https://slack.jina.ai) for communication.
 
 - [![linkedin community](https://camo.githubusercontent.com/769f5e402e0863841794b4c8d8c71c3b864daac347f5725eac1e71e0a74209f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d372e376b2d77686974653f6c6f676f3d6c696e6b6564696e267374796c653d736f6369616c)](https://www.linkedin.com/company/jinaai) [![Twitter Follow](https://camo.githubusercontent.com/b6e0da3e6efc7e00ac745f2141e5ef6bdd846a09fcdc8a275ffe9af45f4f70ca/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f6a696e6161695f3f7374796c653d736f6369616c)](https://twitter.com/JinaAI_) [![YouTube Channel Subscribers](https://camo.githubusercontent.com/356afd6af66f315baa3de8946bb4124427afe59e0fd16a11d2d751fece512cc7/68747470733a2f2f696d672e736869656c64732e696f2f796f75747562652f6368616e6e656c2f73756273637269626572732f5543317a734b5742504757564d33496a41737032495064773f7374796c653d736f6369616c)](https://www.youtube.com/channel/UC1zsKWBPGWVM3IjAsp2IPdw/) 
 
