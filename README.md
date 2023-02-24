@@ -5,6 +5,7 @@
 </p>
 
 
+
 <p align="center">
 <b>
 X
@@ -12,24 +13,26 @@ X
 </p>
 
 
+
 <p align="center">
 <img src="https://summerofcode.withgoogle.com/assets/media/logo.svg" alt="GSoC banner" width="60%" >
 </p>
 
-Join the Jina AI team for a summer full of coding, learning and fun. Be part of our diverse community! Read more about the program and apply at the [Google Summer of Code website.](https://summerofcode.withgoogle.com/)
+Jina AI has been selected as one of 19 organizations in Infrastructure and Cloud for Google Summer of Code 2023! GSoC is an open source internship program offering paid remote work. 
 
-**Note｜GSoC 2023 change**: Contributors are now eligible if you are either Free-software newcomers or students (one of the two criteria fulfilled).
+Almost anyone in the world over 18 years of age who loves coding and wants to explore the incredible world of open source can join us as a GSoC 2023 contributor.
 
-**Dates | GSoC 2023 Timeline**:
 
-- February 22, 2023 - Accepted mentoring organizations get announced
-- March 20, 2023 - Applications open for contributors
-- April 4, 2023 - Deadline for contributors to apply
+This page contains a high level list of potential project ideas that we are keen to develop during GSoC 2023. If you would like to apply as a GSoC student, please follow these steps to get started: 
 
-**More Information**: Read the [GSoC Manual](https://google.github.io/gsocguides/student/), [Timeline](https://developers.google.com/open-source/gsoc/timeline), and [GSoC FAQs](https://developers.google.com/open-source/gsoc/faq)
+1. Read through this page and the [Google Summer of Code guides](https://google.github.io/gsocguides/student/),
+2. Identify, or come up with your own project ideas you find interesting.
+3. fill out the [survey](https://10sw1tcpld4.typeform.com/to/chrdIltW).
+4. Please introduce yourself in #introductions channel in our [Slack community](https://slack.jina.ai).
+5. Join #gsoc-support channel to public communicate with potential mentors.
+6. Prepare your project proposal.
 
-If you have questions, please feel free to reach out to us on [Slack](https://jina.ai/slack/) or [GitHub discussions](https://github.com/docarray/docarray/discussions). 
-
+For details and rules of GSoC, please read the [GSoC Manual](https://google.github.io/gsocguides/student/), [Timeline](https://developers.google.com/open-source/gsoc/timeline), and [GSoC FAQs](https://developers.google.com/open-source/gsoc/faq)
 
 
 ## 🔎 Who are we?
@@ -50,14 +53,13 @@ We are firm supporters of open source and have open sourced multiple projects, i
 We are always enthusiastic about GSoC and we believe this experience will help us empower more users, improve open source and overall, enhance developer experience. 
 
 
-
 ## 💡 Project ideas
 
 
 | Title                                                        | Skills needed                             | Mentors                                                      | Difficulty | Size      |
 | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ | ---------- | --------- |
 | [Build Executor (model) UI in jina](https://github.com/jina-ai/GSoC#project-idea-1-build-executor-model-ui-in-jina) | Python                                    | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), @[Philip Vollet](https://www.linkedin.com/in/philipvollet) | Easy       | 175 hours |
-| [DocArray wrap ANN libraries](https://github.com/jina-ai/GSoC#project-idea-2-docarray-wrap-ann-libraries) | Python, ANN Search experience             | @[Johannes](https://github.com/JohannesMessner), @[Sami Jaghouar](https://github.com/samsja), @[Philip Vollet](https://www.linkedin.com/in/philipvollet) | Medium     | 175 hours |
+| [DocArray wrap ANN libraries](https://github.com/jina-ai/GSoC#project-idea-2-docarray-wrap-ann-libraries) | Python, ANN Search experience             | @[Johannes Messner](https://github.com/JohannesMessner), @[Sami Jaghouar](https://github.com/samsja), @[Philip Vollet](https://www.linkedin.com/in/philipvollet) | Medium     | 175 hours |
 | [Research about deploying LLM with Jina](https://github.com/jina-ai/GSoC#project-idea-3-research-about-deploying-llm-with-jina) | Python, Pytorch, CUDA, docker, Kubernetes | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), @[Joan Martínez](https://github.com/JoanFM) | Medium     | 350 Hours |
 | [Expand ANNLite capabilities with BM25 to build Hybrid Search](https://github.com/jina-ai/GSoC#project-idea-4--expand-annlite-capabilities-with-bm25-to-build-hybrid-search) | Python, C++, Lucene, ANN, Inverted Index  | @[Felix Wang](https://github.com/numb3r3), @[Joan Martínez](https://github.com/JoanFM), @[Girish Chandrashekar](https://github.com/girishc13) | Hard       | 350 hours |
 | [Make ANNLite the go-to Vector Search library to be scaled by Jina using the StatefulExecutor feature](https://github.com/jina-ai/GSoC#project-idea-5-make-annlite-the-go-to-vector-search-library-to-be-scaled-by-jina-using-the-statefulexecutor-feature) | ANN, C++, Python, Databases               | @[Felix Wang](https://github.com/numb3r3), @[Joan Martínez](https://github.com/JoanFM) | Hard       | 350 Hours |
@@ -163,7 +165,7 @@ We are always enthusiastic about GSoC and we believe this experience will help u
 
 ### *Project idea 6:  JAX support in DocArray v2*
 
-| info             | details                                     |
+| Info             | details                                     |
 | ---------------- | ------------------------------------------- |
 | Skills needed    | Python, C++, Lucene, ANN, Inverted Index    |
 | Project size     | 350 hours                                   |
@@ -188,66 +190,101 @@ We are always enthusiastic about GSoC and we believe this experience will help u
 
 ### *🧬 Project idea X: Your own idea!*
 
-Don't feel limited to the ideas above -- if you've got a cool project you want to work on, we'll probably be able to find you a mentor. We plan on approving as many projects as we possibly can.
+If you have any ideas of your own, please feel free to send them in Jina AI Slack #gsoc-support channel. Your message should clearly state the project idea, the motivation behind it, the benefits it brings and a brief idea of how you wish to implement it. The project idea needs to be approved by the mentors to be officially accepted.
 
-If you have any ideas of your own, please feel free to send them to the mentors listed below. Your message should clearly state the project idea, the motivation behind it, the benefits it brings and a brief idea of how you wish to implement it. The project idea needs to be approved by the mentors to be officially accepted.
+**Project idea template**
+
+```markdown
+1. Title
+2. Summary: Short Project Description
+3. Expected outcomes
+4. Desired skills
+5. Details
+	- Skill needed
+	- Project size
+	- Difficulty level
+	- Mentor: Email address
+	- Suggested by: Person who suggested the idea
+```
 
 
 
-# 📝 How to apply
-
-To apply for one of our projects, candidates need to create a proposal. If
-
-- 👉 you want to work on a project idea listed below, discuss with mentors about how you plan on doing and submit a proposal.
-
-- 👉 you want to work on your own project idea, get the project idea approved by one of the mentors via slack and submit a proposal.
-
-**Submissions need to be made via email.** Please send your proposals to google-soc@jina.ai before the deadline as mentioned in the [timeline](https://developers.google.com/open-source/gsoc/timeline).
-
-| name                                                       | email                           |
-| :--------------------------------------------------------- | ------------------------------- |
-| @[Felix Wang](https://github.com/numb3r3)                  | felix.wang@jina.ai              |
-| @[Sami Jaghouar](https://github.com/samsja)                | sami.jaghouar@jina.ai           |
-| @[Joan Martínez](https://github.com/JoanFM)                | joan.fontanals.martinez@jina.ai |
-| @[Girish Chandrashekar](https://github.com/girishc13)      | girish.chandrashekar@jina.ai    |
-| @[Johannes](https://github.com/JohannesMessner)            | johannes.messner@jina.ai        |
-| @[Alaeddine Abdessalem](https://github.com/alaeddine-13)   | alaeddine.abdessalem@jina.ai    |
-| @[Philip Vollet](https://www.linkedin.com/in/philipvollet) | philip.vollet@jina.ai           |
-
-## How to create a project proposal?
+### ✍️ How to create a project proposal?
 
 We expect your application to be between 1000-1500 words. Your proposal should include all the necessary information listed below and should provide a detailed explanation of the problem you are trying to solve, the tools, data structures, algorithms, etc. that are necessary for you to complete the project successfully. At a minimum, your proposal should include the following information, as well as any other information you deem relevant:
 
 ```markdown
-1. Your name, and email address
+== Title ==
+**About me**
+- Name (and nicknames like your github and irc usernames)
+- University / program / year / expected graduation date
+- Contact info (email, phone, etc.)
+- Time zone
+- Link to your resume (if you want)
 
-2. Title of Your Proposal
-
-3. Abstract
-
-Provide a brief summary of your proposal, including what it will contribute to the project and to Jina AI.
-
-4. Detailed Description
-
-Explain your idea in detail, including why it is innovative and what it will contribute to the project and to Jina AI. Include links to prototypes, bibliography, or other relevant sources.
-
-5. Previous Work
-
+**Previous Work**
+Link to your pull request or code sample goes here.
 Describe your academic studies, any previous work, internships, relevant work experience, or open source contributions (e.g. previous GSoC, PRs you made, etc.).
 
-6. Relevant Skills
+**Relevant Skills**
 
 List the relevant skills that will help you to achieve the goal (programming languages, frameworks, etc.).
 
-7. Commitment
+**Project information**
+
+1. Project Abstract
+
+Provide a brief summary of your proposal, including what it will contribute to the project and to Jina AI.
+
+2. Detailed Description
+
+Explain your idea in detail, including why it is innovative and what it will contribute to the project and to Jina AI. Include links to prototypes, bibliography, or other relevant sources.
+
+3. Weekly timeline
+
+May 4 - 28, Community Bonding: List any prepwork you want to do before coding starts.
+
+May 29, Coding officially begins!
+For each coding week below, list planned code deliverables. Break the project into weeks and estimate what you will have complete at the end of each one. This schedule can be adjusted later if need be.
+
+Week 1 Note that usually even week 1's deliverables should include some code.
+
+Week 2
+
+Week 3
+
+Week 4
+
+Week 5
+
+July 10, Week 6 Midterm evaluations. You need enough done at this point for your mentor to evaluate your progress and pass you. Usually you want to be a bit more than half done.
+
+Week 7
+
+Week 8
+
+Week 9
+
+Week 10
+
+August 8, Week 11 Final week you may want to try to "code freeze" in week 11 and complete any tests/documentation in week 11-12.
+
+Week 12
+
+Final week: This week you will be submitting your projects
+
+
+**Commitment**
 
 Do you plan to have any other commitments during GSoC that may affect your work? Any vacations/holidays? Will you be available full time to work on your project? (Please refrain from applying if you cannot manage your time and cannot guarantee 100% commitment.)
 
 ```
 
-Also, you must join our [Slack](https://jina.ai/slack/) and get in touch with the mentors before the submission deadline (one week ahead) so that they can help you draft an amazing application by reviewing it ahead of time.
 
-The best way to demonstrate your capability is to submit a small patch/pull request before the project selection for an existing or new issue. We prefer candidates who are self-motivated, can work well with guidance from mentors, and have knowledge of Python, Machine Learning, and ANN Search experience.
+
+## 🤙 Contacting Jina AI
+
+We have our own [Slack Community](https://slack.jina.ai) for communication. If you have any questions, please don't hesitate to reach out to the mentors listed below on the #gsoc-support channel.
 
 
 
@@ -269,22 +306,7 @@ As a student in Jina AI's GSoC program, you will have the opportunity to:
 
 
 
-
-## 🏁 Get started
-
-- Please introduce yourself in #introductions channel in our [Slack community](https://slack.jina.ai).
-- Learn about Jina by reading the [documentation](https://docs.jina.ai/).
-- Check out [Jina Hub](https://cloud.jina.ai/executors).
-
-
-
-## 🤙 Communication
-
-We have our own [Slack community](https://slack.jina.ai) for communication. If you have any questions, please don't hesitate to reach out to the mentors listed below on the #gsoc-support channel.
-
-
-
-## 📝 How can I improve my chances of being accepted?
+## 📝 How to improve your chances of being accepted?
 
 The best way to increase your chances of being accepted as a Jina AI GSoC student is to start contributing now. Read up on [Jina's contribution documentation](https://github.com/jina-ai/jina/blob/master/CONTRIBUTING.md) and make yourself known to the other contributors by your contributions (ideally, related to the area of your proposal). This way, when it comes time to evaluate student applications, you will be a recognized individual and more likely to receive the attention you need to develop a successful proposal.
 
