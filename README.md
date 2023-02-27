@@ -64,7 +64,7 @@ We are firm supporters of open source and have open sourced multiple projects, i
 | [Research about deploying LLM with Jina](https://github.com/jina-ai/GSoC/issues/18) | Python, Pytorch, CUDA, docker, Kubernetes | @[Alaeddine Abdessalem](https://github.com/alaeddine-13), @[Joan Martínez](https://github.com/JoanFM) | Medium     | 350 Hours |
 | [Expand ANNLite capabilities with BM25 to build Hybrid Search](https://github.com/jina-ai/GSoC/issues/19) | Python, C++, Lucene, ANN, Inverted Index  | @[Felix Wang](https://github.com/numb3r3), @[Joan Martínez](https://github.com/JoanFM), @[Girish Chandrashekar](https://github.com/girishc13) | Hard       | 350 hours |
 | [Make ANNLite the go-to Vector Search library to be scaled by Jina using the StatefulExecutor feature](https://github.com/jina-ai/GSoC/issues/20) | ANN, C++, Python, Databases               | @[Felix Wang](https://github.com/numb3r3), @[Joan Martínez](https://github.com/JoanFM) | Hard       | 350 Hours |
-| [JAX support in DocArray v2](https://github.com/jina-ai/GSoC/issues/21) | Python, AI/ML, JAX Framework experience   | @[Sami Jaghouar](https://github.com/samsja)                  | Hard       | 350 Hours |
+| [JAX support in DocArray v2](https://github.com/jina-ai/GSoC/issues/21) | Python, AI/ML, JAX Framework experience   | @[Sami Jaghouar](https://github.com/samsja)                  | Hard       | 175 Hours |
 
 
 
