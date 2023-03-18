@@ -22,6 +22,9 @@ Jina AI has been selected as one of 19 organizations in Infrastructure and Cloud
 
 Almost anyone in the world over 18 years of age who loves coding and wants to explore the incredible world of open source can join us as a GSoC 2023 contributor.
 
+🙋 Join us for a [GSoC x Jina AI webinar](https://www.meetup.com/jina-community-meetup/events/292210036/) on Thursday March 23rd, Our mentors will provide an in-depth overview of their projects and answer any questions you have about the project requirements, and expectations. So please don't hesitate to ask any questions or seek clarification on any aspect of the project.
+
+
 
 This page contains a list of potential project ideas that we want to develop during GSoC 2023. If you would like to apply as a GSoC contributor, please follow these steps to get started: 
 
